@@ -2,8 +2,8 @@ from selenium import webdriver
 import chromedriver_autoinstaller # https://pypi.org/project/chromedriver-autoinstaller/
 from selenium.webdriver import ActionChains # to perform click
 import time
+import json
 # import requests
-# import json
 # import os
 
 # url
@@ -85,7 +85,9 @@ while True:
         print('append links done')
         break
 
-print(len(links))
+# output this as json 
+with open('pokedex_links.json', 'w+') as f:
+    f.write(json.dumps(links))
 
 # close
 driver.close()
