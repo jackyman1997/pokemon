@@ -20,7 +20,7 @@ options.add_argument('--ignore-ssl-errors')
 # maximise windows
 options.add_argument("--start-maximized")
 # set path to chromedriver.exe
-chromedriver_path = './chromedriver.exe'
+chromedriver_path = '../chromedriver.exe'
 
 # start
 driver = webdriver.Chrome(chromedriver_path, options=options)
@@ -28,36 +28,6 @@ driver.get(url)
 print('open')
 time.sleep(5)
 print('have slept')
-
-# click
-# to_click = driver.find_element_by_xpath('/html/body/div[4]/section[5]/ul/li[1]')
-# print('found')
-# ActionChains(driver).click(to_click).perform()
-# print('clicked')
-
-# find main element
-# main_element = driver.find_element_by_xpath('/html/body/div[4]/section[5]/ul')
-
-# # check len
-# pokemons = main_element.find_elements_by_class_name('animating')
-# print(len(pokemons))
-
-# # print links
-# for i in pokemons: 
-#     link = i.find_element_by_tag_name('a').get_attribute('href')
-#     print(link)
-
-# # click for more
-# load_more = driver.find_element_by_xpath('/html/body/div[4]/section[5]/div[2]/a/span')
-# ActionChains(driver).click(load_more).perform()
-# print('clicked')
-# time.sleep(2)
-
-# main_element = driver.find_element_by_xpath('/html/body/div[4]/section[5]/ul')
-# pokemons = main_element.find_elements_by_class_name('animating')
-# print(len(pokemons))
-
-
 
 # scroll forever
 no_of_pokemons = 898
@@ -78,16 +48,17 @@ while True:
     # stop condition 
     if len(pokemons) >= no_of_pokemons:
         print('reached')
-        links = []
-        for i in pokemons: 
+        links = {}
+        for idx, i in enumerate(pokemons): 
             link = i.find_element_by_tag_name('a').get_attribute('href')
-            links.append(link)
+            links[idx+1] = link
         print('append links done')
         break
 
 # output this as json 
 with open('pokedex_links.json', 'w+') as f:
-    f.write(json.dumps(links))
+    f.write(json.dumps(links, indent=4))
+    print('output to json')
 
 # close
 driver.close()
