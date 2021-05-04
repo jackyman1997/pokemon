@@ -1,8 +1,10 @@
 # links 
 <a href='https://victoryroadvgc.com/2020/12/08/players-cup-ii-na-results/'>vgc data</a>  
 <a href='https://www.pokemon.com/us/pokedex/'>pokedex</a>  
-<a href='https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon'>wiki</a>
-<a href='https://pokeapi.co/'>pokeapi</a>
+<a href='https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon'>wiki</a>  
+<a href='https://bulbapedia.bulbagarden.net/wiki/Stat'>wiki 2</a>  
+<a href='https://pokeapi.co/'>pokeapi</a>  
+<a href='https://pokemondb.net/'>pokemon db</a>  
 
 # what i done
 - got a list of pokemon and urls from <a href='https://www.pokemon.com/us/pokedex/'>pokedex</a>  
