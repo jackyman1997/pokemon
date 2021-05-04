@@ -24,7 +24,7 @@ stats of a pokemon are affected by the followings:
 - levels (LV) 
 
 For HP:  
-$$ \text{HP} = \frac{(2 \text{BS} + \text{IV} + \frac{EV}{4})) \times \text{LV}}{100} + 10 + \text{LV} $$
-Other stats: 
-$$ \text{Others} = \big( \frac{(2 \text{BS} + \text{IV} + \frac{EV}{4})) \times \text{LV}}{100} + 5 \big) \times \text{nature} $$  
+$ \text{HP} = \frac{(2 \text{BS} + \text{IV} + \frac{EV}{4})) \times \text{LV}}{100} + 10 + \text{LV} $  
+Other stats:  
+$ \text{Others} = \big( \frac{(2 \text{BS} + \text{IV} + \frac{EV}{4})) \times \text{LV}}{100} + 5 \big) \times \text{nature} $  
 All fraction are rounded to integer (floor function)
