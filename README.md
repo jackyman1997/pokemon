@@ -32,6 +32,7 @@ stats of a pokemon are affected by the followings:
 
 For HP:  
 ![equ](https://www.codecogs.com/eqnedit.php?latex=\text{HP}&space;=&space;\frac{(2&space;\text{BS}&space;&plus;&space;\text{IV}&space;&plus;&space;\frac{EV}{4}))&space;\times&space;\text{LV}}{100}&space;&plus;&space;10&space;&plus;&space;\text{LV})  
+\[\text{HP} = \frac{(2 \text{BS} + \text{IV} + \frac{EV}{4})) \times \text{LV}}{100} + 10 + \text{LV}\]
 ![\text{HP} = \frac{(2 \text{BS} + \text{IV} + \frac{EV}{4})) \times \text{LV}}{100} + 10 + \text{LV}]  
 Other stats:  
 $ \text{Others} = \big( \frac{(2 \text{BS} + \text{IV} + \frac{EV}{4})) \times \text{LV}}{100} + 5 \big) \times \text{nature} $  
