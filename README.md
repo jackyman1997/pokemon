@@ -1,5 +1,9 @@
 # links 
 <a href='https://victoryroadvgc.com/2020/12/08/players-cup-ii-na-results/'>vgc data</a>  
+<a hreh='https://www.pikalytics.com/pokedex/ss'>Pikalytics</a>  
+<a href='https://pokemonshowdown.com/'>pokemonshowdown</a>  
+try to understand what real and raw data are, can ask the forum people or github owner  
+replay may contain data about win rate, and records are save as .txt and .json  
 <a href='https://www.pokemon.com/us/pokedex/'>pokedex</a>  
 <a href='https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon'>wiki</a>  
 <a href='https://bulbapedia.bulbagarden.net/wiki/Stat'>wiki 2</a>  
@@ -15,25 +19,3 @@
 
 # ideas  
 currently I don't have a solid direction on ho to apply ai onto this kind of dataset, maybe i can use vgc data to do some sort of prediction. 
-
-# details  
-6 stats:  
-- HP
-- ATK
-- DEF
-- SP. ATK
-- Sp. DEF
-- SPD
-
-stats of a pokemon are affected by the followings:  
-- base stats (BS)
-- IVs 
-- EVs
-- nature 
-- levels (LV) 
-
-For HP:  
-<img src="https://render.githubusercontent.com/render/math?math=%5Ctext%7BHP%7D%20%3D%20%5Cfrac%7B(2%20%5Ctext%7BBS%7D%20%2B%20%5Ctext%7BIV%7D%20%2B%20%5Cfrac%7BEV%7D%7B4%7D)%20%5Ctimes%20%5Ctext%7BLV%7D%7D%7B100%7D%20%2B%2010%20%2B%20%5Ctext%7BLV%7D">  
-Other stats:  
-<img src="https://render.githubusercontent.com/render/math?math=%5Ctext%7BOthers%7D%20%3D%20%5Cbig(%20%5Cfrac%7B(2%20%5Ctext%7BBS%7D%20%2B%20%5Ctext%7BIV%7D%20%2B%20%5Cfrac%7BEV%7D%7B4%7D)%20%5Ctimes%20%5Ctext%7BLV%7D%7D%7B100%7D%20%2B%205%20%5Cbig)%20%5Ctimes%20%5Ctext%7Bnature%7D">  
-All fraction are rounded to integer (floor function)
