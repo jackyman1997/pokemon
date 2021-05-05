@@ -1,6 +1,6 @@
 # links 
 <a href='https://victoryroadvgc.com/2020/12/08/players-cup-ii-na-results/'>vgc data</a>  
-<a hreh='https://www.pikalytics.com/pokedex/ss'>Pikalytics</a>  
+<a href='https://www.pikalytics.com/pokedex/ss'>Pikalytics</a>  
 <a href='https://pokemonshowdown.com/'>pokemonshowdown</a>  
 try to understand what real and raw data are, can ask the forum people or github owner  
 replay may contain data about win rate, and records are save as .txt and .json  
