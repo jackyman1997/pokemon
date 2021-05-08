@@ -24,7 +24,15 @@ class Pokemon_winRate():
         self.name_links = '1v1_links.json'
         self.links = []
         # runnning 
-        # self.get_links()
+        # 1v1 keywords
+        term_1v1 = ['Challenge Cup 1v1', '1v1', 'gen8cap1v1', 'gen81v1', 'gen71v1', 'gen61v1', 'gen51v1', 'gen41v1', 'gen31v1', 'gen21v1', 'gen11v1']
+        for word in term_1v1: 
+            self.get_links(key_words=word, max_links=10000)
+            print(len(self.links))
+        # save in json
+        with open(self.name_links, 'w') as f:
+            f.write( json.dumps(self.links) )
+        # load links json for win counts 
         with open(self.name_links, 'r') as f:
             urls = json.load(f)
         self.prep_for_win_rate = []
@@ -95,7 +103,7 @@ class Pokemon_winRate():
         with open(self.name_links, 'w') as f:
             f.write( json.dumps(self.link, indent=4) )
 
-    def get_links(self, key_words='gen81v1', max_links=1000): 
+    def get_links(self, key_words, max_links=10000): 
         url_search_user = 'https://replay.pokemonshowdown.com/'
         # webdriver start
         self.driver = webdriver.Chrome(options=self.options)
@@ -111,37 +119,36 @@ class Pokemon_winRate():
         format_search_button.click()
         time.sleep(1)
         # while loop to get links 
-        while True:
+        max_reach = False 
+        while not max_reach:
             # find the more button  
             try: 
                 more_button = self.driver.find_element_by_name('moreResults')
-                print('more button found')
             except: 
                 print('more button not found')
-                break
+                max_reach = True
             # find the number of links 
             try: 
                 table = self.driver.find_element_by_class_name('linklist')
                 links_obj = table.find_elements_by_tag_name('li')
-                print('more links found')
-                print(len(links_obj))
+                print(f'{len(links_obj)} more links found', end="\r")
             except: 
                 print('table/links not found')
                 break
             # check number of links the webpage has
-            if len(links_obj) >= max_links: 
+            if len(links_obj) >= max_links or max_reach: 
                 for link_obj in links_obj: 
-                    link = link_obj.find_element_by_tag_name('a').get_attribute('href')
-                    self.links.append(link)
+                    try: 
+                        link = link_obj.find_element_by_tag_name('a').get_attribute('href')
+                        self.links.append(link)
+                    except:
+                        continue
                 break
             else: # if not, then click more
                 more_button.click()
                 time.sleep(3)
         # close webdriver
         self.driver.close()
-        # save in json
-        with open(self.name_links, 'w') as f:
-            f.write( json.dumps(self.links, indent=4) )
 
     def get_battle_log(self, url: str):
         # log in json form in showdown 
