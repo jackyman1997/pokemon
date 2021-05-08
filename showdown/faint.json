@@ -1,0 +1,4554 @@
+[
+    {
+        "p1a": "Goodra",
+        "p2a": "Jirachi",
+        "faint": "Goodra"
+    },
+    {
+        "p1a": "Glastrier",
+        "p2a": "Glastrier",
+        "faint": "Glastrier"
+    },
+    {
+        "p1a": "Raboot",
+        "p2a": "Togedemaru",
+        "faint": "Raboot"
+    },
+    {
+        "p1a": "Togedemaru",
+        "p2a": "Exploud",
+        "faint": "Exploud"
+    },
+    {
+        "p1a": "Greedent",
+        "p2a": "Greedent, F",
+        "faint": "Greedent, F"
+    },
+    {
+        "p1a": "Raboot",
+        "p2a": "Gengar",
+        "faint": "Gengar"
+    },
+    {
+        "p1a": "Togedemaru",
+        "p2a": "Swoobat",
+        "faint": "Swoobat"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1336177501.json, index fucked, check dict['log']",
+    {
+        "p1a": "Shedinja",
+        "p2a": "Raboot",
+        "faint": "Shedinja"
+    },
+    {
+        "p1a": "Togedemaru",
+        "p2a": "Togedemaru, L1, F",
+        "faint": "Togedemaru, L1, F"
+    },
+    {
+        "p1a": "Togedemaru",
+        "p2a": "Obstagoon",
+        "faint": "Obstagoon"
+    },
+    {
+        "p1a": "Barraskewda",
+        "p2a": "Togedemaru",
+        "faint": "Barraskewda"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Marowak-Alola",
+        "faint": "Marowak-Alola"
+    },
+    {
+        "p1a": "Salamence",
+        "p2a": "Togedemaru",
+        "faint": "Salamence"
+    },
+    {
+        "p1a": "Heracross",
+        "p2a": "Cresselia",
+        "faint": "Cresselia"
+    },
+    {
+        "p1a": "Dunsparce",
+        "p2a": "Salamence",
+        "faint": "Dunsparce"
+    },
+    {
+        "p1a": "Bouffalant",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Bouffalant"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1336158766.json, index fucked, check dict['log']",
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Urshifu",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Togedemaru",
+        "faint": "Volcanion"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1336154383.json, index fucked, check dict['log']",
+    {
+        "p1a": "Magnemite",
+        "p2a": "Togedemaru",
+        "faint": "Magnemite"
+    },
+    {
+        "p1a": "Togedemaru",
+        "p2a": "Togedemaru, L1, M",
+        "faint": "Togedemaru, L1, M"
+    },
+    {
+        "p1a": "Shedinja",
+        "p2a": "Togedemaru",
+        "faint": "Shedinja"
+    },
+    {
+        "p1a": "Trapinch",
+        "p2a": "Jirachi",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Rotom-Heat",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Rotom-Heat"
+    },
+    {
+        "p1a": "Venusaur",
+        "p2a": "Venusaur, M",
+        "faint": "Venusaur, M"
+    },
+    {
+        "p1a": "Tapu Bulu",
+        "p2a": "Tapu Bulu",
+        "faint": "Tapu Bulu"
+    },
+    {
+        "p1a": "Marowak-Alola",
+        "p2a": "Toxapex",
+        "faint": "Toxapex"
+    },
+    {
+        "p1a": "Octillery",
+        "p2a": "Zoroark",
+        "faint": "Octillery"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Landorus-Therian",
+        "faint": "Zygarde"
+    },
+    {
+        "p1a": "Azumarill",
+        "p2a": "Sylveon",
+        "faint": "Azumarill"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Turtonator",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Swampert",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Dragapult",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Rillaboom",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Dragapult",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Naganadel",
+        "p2a": "Avalugg",
+        "faint": "Naganadel"
+    },
+    {
+        "p1a": "Malamar",
+        "p2a": "Malamar, M",
+        "faint": "Malamar"
+    },
+    {
+        "p1a": "Kartana",
+        "p2a": "Kartana",
+        "faint": "Kartana"
+    },
+    {
+        "p1a": "Salazzle",
+        "p2a": "Shuckle",
+        "faint": "Salazzle"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Lapras",
+        "faint": "Lapras"
+    },
+    {
+        "p1a": "Kyurem",
+        "p2a": "Gloom",
+        "faint": "Kyurem"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335919973.json, index fucked, check dict['log']",
+    {
+        "p1a": "Rhyperior",
+        "p2a": "Heracross",
+        "faint": "Rhyperior"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335909139.json, index fucked, check dict['log']",
+    {
+        "p1a": "Leafeon",
+        "p2a": "Sawk",
+        "faint": "Sawk"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Hydreigon",
+        "faint": "Hydreigon"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Dragapult",
+        "faint": "Heatran"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335866953.json, index fucked, check dict['log']",
+    {
+        "p1a": "Rotom-Wash",
+        "p2a": "Blaziken",
+        "faint": "Blaziken"
+    },
+    {
+        "p1a": "Aggron",
+        "p2a": "Urshifu",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Rotom-Wash",
+        "p2a": "Omastar",
+        "faint": "Omastar"
+    },
+    {
+        "p1a": "Aegislash",
+        "p2a": "Aegislash",
+        "faint": "Aegislash"
+    },
+    {
+        "p1a": "Gengar",
+        "p2a": "Aegislash",
+        "faint": "Gengar"
+    },
+    {
+        "p1a": "Marowak-Alola",
+        "p2a": "Incineroar",
+        "faint": "Marowak-Alola"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Sylveon",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Marowak-Alola",
+        "p2a": "Marowak-Alola, M, shiny",
+        "faint": "Marowak-Alola"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Urshifu, F",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Volcanion",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon, F, shiny",
+        "faint": "Sylveon, F, shiny"
+    },
+    {
+        "p1a": "Magnezone",
+        "p2a": "Magnezone",
+        "faint": "Magnezone"
+    },
+    {
+        "p1a": "Rotom-Wash",
+        "p2a": "Shedinja",
+        "faint": "Shedinja"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335857121.json, index fucked, check dict['log']",
+    {
+        "p1a": "Urshifu",
+        "p2a": "Urshifu, M, shiny",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Hawlucha",
+        "p2a": "Rillaboom",
+        "faint": "Hawlucha"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Urshifu, F",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Hawlucha",
+        "p2a": "Sylveon",
+        "faint": "Hawlucha"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Dragapult, M",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Volcanion",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Nidoking",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Nidoking"
+    },
+    {
+        "p1a": "Tapu Lele",
+        "p2a": "Onix",
+        "faint": "Onix"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Zeraora",
+        "faint": "Zeraora"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335838186.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1335818711.json, index fucked, check dict['log']",
+    {
+        "p1a": "Magikarp",
+        "p2a": "Togedemaru",
+        "faint": "Magikarp"
+    },
+    {
+        "p1a": "Ninetales-Alola",
+        "p2a": "Sceptile",
+        "faint": "Sceptile"
+    },
+    {
+        "p1a": "Togedemaru",
+        "p2a": "Krokorok",
+        "faint": "Krokorok"
+    },
+    {
+        "p1a": "Stoutland",
+        "p2a": "Stoutland, M",
+        "faint": "Stoutland"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Ferrothorn",
+        "faint": "Ferrothorn"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335805895.json, index fucked, check dict['log']",
+    {
+        "p1a": "Urshifu",
+        "p2a": "Urshifu, M",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Heatran, M",
+        "faint": "Heatran, M"
+    },
+    {
+        "p1a": "Goodra",
+        "p2a": "Goodra, F",
+        "faint": "Goodra, F"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Diggersby",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Kyurem",
+        "faint": "Dragapult"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335795006.json, index fucked, check dict['log']",
+    {
+        "p1a": "Heatran",
+        "p2a": "Heatran, M",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Registeel",
+        "p2a": "Sawk",
+        "faint": "Registeel"
+    },
+    {
+        "p1a": "Cloyster",
+        "p2a": "Venusaur",
+        "faint": "Cloyster"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Clefable",
+        "p2a": "Grimmsnarl",
+        "faint": "Grimmsnarl"
+    },
+    {
+        "p1a": "Moltres",
+        "p2a": "Rillaboom",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Urshifu-Rapid-Strike, F",
+        "faint": "Urshifu-Rapid-Strike, F"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Avalugg"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Avalugg",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Goodra",
+        "faint": "Goodra"
+    },
+    {
+        "p1a": "Raikou",
+        "p2a": "Raikou, shiny",
+        "faint": "Raikou"
+    },
+    {
+        "p1a": "Diancie",
+        "p2a": "Diancie",
+        "faint": "Diancie"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335641987.json, index fucked, check dict['log']",
+    {
+        "p1a": "Swampert",
+        "p2a": "Cinccino",
+        "faint": "Swampert"
+    },
+    {
+        "p1a": "Reuniclus",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Sceptile",
+        "p2a": "Magnemite",
+        "faint": "Sceptile"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335633176.json, index fucked, check dict['log']",
+    {
+        "p1a": "Scizor",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Blaziken",
+        "p2a": "Unfezant",
+        "faint": "Unfezant"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335584609.json, index fucked, check dict['log']",
+    {
+        "p1a": "Sceptile",
+        "p2a": "Rillaboom",
+        "faint": "Sceptile"
+    },
+    {
+        "p1a": "Blaziken",
+        "p2a": "Sceptile",
+        "faint": "Sceptile"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Sceptile",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Tapu Fini",
+        "p2a": "Blissey",
+        "faint": "Tapu Fini"
+    },
+    {
+        "p1a": "Sceptile",
+        "p2a": "Sceptile",
+        "faint": "Sceptile"
+    },
+    {
+        "p1a": "Sceptile",
+        "p2a": "Sceptile, M",
+        "faint": "Sceptile, M"
+    },
+    {
+        "p1a": "Kyurem",
+        "p2a": "Kyurem",
+        "faint": "Kyurem"
+    },
+    {
+        "p1a": "Quagsire",
+        "p2a": "Sceptile",
+        "faint": "Quagsire"
+    },
+    {
+        "p1a": "Swampert",
+        "p2a": "Incineroar",
+        "faint": "Incineroar"
+    },
+    {
+        "p1a": "Sceptile",
+        "p2a": "Primarina",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Sceptile",
+        "p2a": "Darmanitan",
+        "faint": "Darmanitan"
+    },
+    {
+        "p1a": "Porygon-Z",
+        "p2a": "Porygon-Z",
+        "faint": "Porygon-Z"
+    },
+    {
+        "p1a": "Grimmsnarl",
+        "p2a": "Jirachi",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Porygon2",
+        "p2a": "Heracross",
+        "faint": "Porygon2"
+    },
+    {
+        "p1a": "Magnemite",
+        "p2a": "Salamence",
+        "faint": "Magnemite"
+    },
+    {
+        "p1a": "Tapu Bulu",
+        "p2a": "Tapu Bulu",
+        "faint": "Tapu Bulu"
+    },
+    {
+        "p1a": "Salamence",
+        "p2a": "Haxorus",
+        "faint": "Haxorus"
+    },
+    {
+        "p1a": "Heracross",
+        "p2a": "Sirfetch\u2019d",
+        "faint": "Sirfetch\u2019d"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335539762.json, index fucked, check dict['log']",
+    {
+        "p1a": "Chansey",
+        "p2a": "Chansey",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Salamence",
+        "p2a": "Dragapult",
+        "faint": "Salamence"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Venusaur",
+        "faint": "Venusaur"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Jirachi, shiny",
+        "faint": "Jirachi, shiny"
+    },
+    {
+        "p1a": "Walrein",
+        "p2a": "Walrein",
+        "faint": "Walrein"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335528172.json, index fucked, check dict['log']",
+    {
+        "p1a": "Primarina",
+        "p2a": "Haxorus",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Ditto",
+        "p2a": "Salamence",
+        "faint": "Ditto"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Avalugg, F",
+        "faint": "Avalugg"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Aromatisse",
+        "faint": "Aromatisse"
+    },
+    {
+        "p1a": "Quagsire",
+        "p2a": "Corviknight",
+        "faint": "Quagsire"
+    },
+    {
+        "p1a": "Chansey",
+        "p2a": "Chansey",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Suicune",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Salamence",
+        "p2a": "Aron",
+        "faint": "Aron"
+    },
+    {
+        "p1a": "Bisharp",
+        "p2a": "Heracross",
+        "faint": "Bisharp"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Heracross",
+        "faint": "Heracross"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335445520.json, index fucked, check dict['log']",
+    {
+        "p1a": "Wobbuffet",
+        "p2a": "Wobbuffet, F",
+        "faint": "Wobbuffet, F"
+    },
+    {
+        "p1a": "Scrafty",
+        "p2a": "Araquanid",
+        "faint": "Araquanid"
+    },
+    {
+        "p1a": "Aromatisse",
+        "p2a": "Aromatisse, M",
+        "faint": "Aromatisse, M"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335397387.json, index fucked, check dict['log']",
+    {
+        "p1a": "Aggron",
+        "p2a": "Regidrago",
+        "faint": "Regidrago"
+    },
+    {
+        "p1a": "Blissey",
+        "p2a": "Zygarde",
+        "faint": "Blissey"
+    },
+    {
+        "p1a": "Sirfetch\u2019d",
+        "p2a": "Onix",
+        "faint": "Sirfetch\u2019d"
+    },
+    {
+        "p1a": "Corviknight",
+        "p2a": "Heracross",
+        "faint": "Corviknight"
+    },
+    {
+        "p1a": "Inteleon",
+        "p2a": "Ditto",
+        "faint": "Ditto"
+    },
+    {
+        "p1a": "Ninetales-Alola",
+        "p2a": "Avalugg",
+        "faint": "Ninetales-Alola"
+    },
+    {
+        "p1a": "Regirock",
+        "p2a": "Genesect",
+        "faint": "Regirock"
+    },
+    {
+        "p1a": "Blissey",
+        "p2a": "Blissey",
+        "faint": "Blissey"
+    },
+    {
+        "p1a": "Blissey",
+        "p2a": "Blissey",
+        "faint": "Blissey"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Dragapult, M",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Toxapex",
+        "p2a": "Zeraora",
+        "faint": "Toxapex"
+    },
+    {
+        "p1a": "Necrozma",
+        "p2a": "Necrozma",
+        "faint": "Necrozma"
+    },
+    {
+        "p1a": "Zapdos-Galar",
+        "p2a": "Zapdos-Galar",
+        "faint": "Zapdos-Galar"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335280250.json, index fucked, check dict['log']",
+    {
+        "p1a": "Sirfetch\u2019d",
+        "p2a": "Sirfetch\u2019d, M",
+        "faint": "Sirfetch\u2019d"
+    },
+    {
+        "p1a": "Porygon2",
+        "p2a": "Primarina",
+        "faint": "Porygon2"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Primarina",
+        "faint": "Regieleki"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Urshifu, M, shiny",
+        "faint": "Urshifu, M, shiny"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Scyther",
+        "faint": "Scyther"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Gloom",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Jirachi",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Aromatisse",
+        "p2a": "Dusknoir",
+        "faint": "Dusknoir"
+    },
+    {
+        "p1a": "Cloyster",
+        "p2a": "Shuckle",
+        "faint": "Cloyster"
+    },
+    {
+        "p1a": "Shellos",
+        "p2a": "Shellos, M",
+        "faint": "Shellos, M"
+    },
+    {
+        "p1a": "Blacephalon",
+        "p2a": "Dragapult",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Blacephalon",
+        "p2a": "Blacephalon",
+        "faint": "Blacephalon"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Duraludon",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Entei",
+        "p2a": "Entei",
+        "faint": "Entei"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Volcanion",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon, F",
+        "faint": "Sylveon, F"
+    },
+    {
+        "p1a": "Blissey",
+        "p2a": "Tyranitar",
+        "faint": "Tyranitar"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Bisharp",
+        "faint": "Bisharp"
+    },
+    {
+        "p1a": "Gardevoir",
+        "p2a": "Zeraora",
+        "faint": "Zeraora"
+    },
+    {
+        "p1a": "Zapdos",
+        "p2a": "Zapdos, shiny",
+        "faint": "Zapdos, shiny"
+    },
+    {
+        "p1a": "Nidoking",
+        "p2a": "Raichu",
+        "faint": "Raichu"
+    },
+    {
+        "p1a": "Regidrago",
+        "p2a": "Tangela",
+        "faint": "Regidrago"
+    },
+    {
+        "p1a": "Celesteela",
+        "p2a": "Azumarill",
+        "faint": "Azumarill"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335204170.json, index fucked, check dict['log']",
+    {
+        "p1a": "Regidrago",
+        "p2a": "Regidrago",
+        "faint": "Regidrago"
+    },
+    {
+        "p1a": "Kyurem",
+        "p2a": "Clefable",
+        "faint": "Clefable"
+    },
+    {
+        "p1a": "Zapdos-Galar",
+        "p2a": "Zapdos-Galar",
+        "faint": "Zapdos-Galar"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Shellos",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Urshifu, F",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Garchomp",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Gloom",
+        "p2a": "Scizor",
+        "faint": "Scizor"
+    },
+    {
+        "p1a": "Umbreon",
+        "p2a": "Ninetales-Alola",
+        "faint": "Ninetales-Alola"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Primarina",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Aegislash",
+        "faint": "Aegislash"
+    },
+    {
+        "p1a": "Garchomp",
+        "p2a": "Dragapult",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Arcanine",
+        "p2a": "Incineroar",
+        "faint": "Arcanine"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Genesect, shiny",
+        "faint": "Genesect, shiny"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Incineroar",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Tyranitar",
+        "p2a": "Magnemite",
+        "faint": "Magnemite"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335135764.json, index fucked, check dict['log']",
+    {
+        "p1a": "Entei",
+        "p2a": "Entei",
+        "faint": "Entei"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Scrafty",
+        "faint": "Scrafty"
+    },
+    {
+        "p1a": "Entei",
+        "p2a": "Entei",
+        "faint": "Entei"
+    },
+    {
+        "p1a": "Dwebble",
+        "p2a": "Dwebble, F",
+        "faint": "Dwebble"
+    },
+    {
+        "p1a": "Mudsdale",
+        "p2a": "Mudsdale, F",
+        "faint": "Mudsdale"
+    },
+    {
+        "p1a": "Dwebble",
+        "p2a": "Dwebble, F",
+        "faint": "Dwebble"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Swampert",
+        "faint": "Swampert"
+    },
+    {
+        "p1a": "Entei",
+        "p2a": "Entei",
+        "faint": "Entei"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon, M",
+        "faint": "Sylveon, M"
+    },
+    {
+        "p1a": "Celesteela",
+        "p2a": "Sylveon",
+        "faint": "Sylveon"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335122028.json, index fucked, check dict['log']",
+    {
+        "p1a": "Entei",
+        "p2a": "Entei",
+        "faint": "Entei"
+    },
+    {
+        "p1a": "Moltres-Galar",
+        "p2a": "Haxorus",
+        "faint": "Moltres-Galar"
+    },
+    {
+        "p1a": "Tapu Koko",
+        "p2a": "Sylveon",
+        "faint": "Sylveon"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335114526.json, index fucked, check dict['log']",
+    {
+        "p1a": "Haxorus",
+        "p2a": "Haxorus, F",
+        "faint": "Haxorus, F"
+    },
+    {
+        "p1a": "Regigigas",
+        "p2a": "Haxorus",
+        "faint": "Regigigas"
+    },
+    {
+        "p1a": "Tapu Koko",
+        "p2a": "Tapu Koko",
+        "faint": "Tapu Koko"
+    },
+    {
+        "p1a": "Salazzle",
+        "p2a": "Salazzle, F",
+        "faint": "Salazzle"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335111946.json, index fucked, check dict['log']",
+    {
+        "p1a": "Corviknight",
+        "p2a": "Corviknight, M",
+        "faint": "Corviknight, M"
+    },
+    {
+        "p1a": "Rotom-Heat",
+        "p2a": "Pangoro",
+        "faint": "Pangoro"
+    },
+    {
+        "p1a": "Sawk",
+        "p2a": "Arcanine",
+        "faint": "Arcanine"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Hitmonchan",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Zeraora",
+        "faint": "Zeraora"
+    },
+    {
+        "p1a": "Regice",
+        "p2a": "Zeraora",
+        "faint": "Regice"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Volcanion",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Shiinotic",
+        "p2a": "Shiinotic, M",
+        "faint": "Shiinotic, M"
+    },
+    {
+        "p1a": "Regirock",
+        "p2a": "Regirock",
+        "faint": "Regirock"
+    },
+    {
+        "p1a": "Greedent",
+        "p2a": "Sylveon",
+        "faint": "Greedent"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335066778.json, index fucked, check dict['log']",
+    {
+        "p1a": "Magnezone",
+        "p2a": "Swampert",
+        "faint": "Magnezone"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Darmanitan-Galar, F",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Arcanine",
+        "p2a": "Haxorus",
+        "faint": "Arcanine"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1335059939.json, index fucked, check dict['log']",
+    {
+        "p1a": "Dusclops",
+        "p2a": "Haxorus",
+        "faint": "Dusclops"
+    },
+    {
+        "p1a": "Snom",
+        "p2a": "Eevee",
+        "faint": "Eevee"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Haxorus",
+        "faint": "Haxorus"
+    },
+    {
+        "p1a": "Rotom-Heat",
+        "p2a": "Corviknight",
+        "faint": "Corviknight"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Kartana",
+        "faint": "Kartana"
+    },
+    {
+        "p1a": "Alakazam",
+        "p2a": "Aegislash",
+        "faint": "Alakazam"
+    },
+    {
+        "p1a": "Ditto",
+        "p2a": "Aegislash",
+        "faint": "Ditto"
+    },
+    {
+        "p1a": "Blissey",
+        "p2a": "Rillaboom",
+        "faint": "Blissey"
+    },
+    {
+        "p1a": "Porygon2",
+        "p2a": "Rillaboom",
+        "faint": "Porygon2"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Aegislash",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Munchlax",
+        "p2a": "Umbreon",
+        "faint": "Munchlax"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Rillaboom",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Clefable",
+        "p2a": "Aegislash",
+        "faint": "Clefable"
+    },
+    {
+        "p1a": "Garchomp",
+        "p2a": "Rillaboom",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Garchomp",
+        "p2a": "Umbreon",
+        "faint": "Umbreon"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Avalugg",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Blacephalon",
+        "p2a": "Aegislash",
+        "faint": "Aegislash"
+    },
+    {
+        "p1a": "Talonflame",
+        "p2a": "Talonflame, F",
+        "faint": "Talonflame"
+    },
+    {
+        "p1a": "Umbreon",
+        "p2a": "Skarmory",
+        "faint": "Skarmory"
+    },
+    {
+        "p1a": "Keldeo-Resolute",
+        "p2a": "Rillaboom",
+        "faint": "Keldeo-Resolute"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334956813.json, index fucked, check dict['log']",
+    {
+        "p1a": "Umbreon",
+        "p2a": "Umbreon, F",
+        "faint": "Umbreon, F"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Chandelure",
+        "p2a": "Aegislash",
+        "faint": "Chandelure"
+    },
+    {
+        "p1a": "Incineroar",
+        "p2a": "Heatran",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Umbreon",
+        "faint": "Umbreon"
+    },
+    {
+        "p1a": "Chandelure",
+        "p2a": "Umbreon",
+        "faint": "Chandelure"
+    },
+    {
+        "p1a": "Magnemite",
+        "p2a": "Sigilyph",
+        "faint": "Magnemite"
+    },
+    {
+        "p1a": "Ferrothorn",
+        "p2a": "Ferrothorn, M",
+        "faint": "Ferrothorn, M"
+    },
+    {
+        "p1a": "Primarina",
+        "p2a": "Primarina, F",
+        "faint": "Primarina, F"
+    },
+    {
+        "p1a": "Whiscash",
+        "p2a": "Maractus",
+        "faint": "Maractus"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Volcanion",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Blissey",
+        "p2a": "Sigilyph",
+        "faint": "Sigilyph"
+    },
+    {
+        "p1a": "Blissey",
+        "p2a": "Charmander",
+        "faint": "Blissey"
+    },
+    {
+        "p1a": "Tapu Koko",
+        "p2a": "Ninetales",
+        "faint": "Tapu Koko"
+    },
+    {
+        "p1a": "Diancie",
+        "p2a": "Dubwool",
+        "faint": "Diancie"
+    },
+    {
+        "p1a": "Tyranitar",
+        "p2a": "Araquanid",
+        "faint": "Araquanid"
+    },
+    {
+        "p1a": "Blastoise",
+        "p2a": "Machamp",
+        "faint": "Blastoise"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334911418.json, index fucked, check dict['log']",
+    {
+        "p1a": "Azumarill",
+        "p2a": "Salamence",
+        "faint": "Salamence"
+    },
+    {
+        "p1a": "Hattrem",
+        "p2a": "Hattrem, F",
+        "faint": "Hattrem, F"
+    },
+    {
+        "p1a": "Tyranitar",
+        "p2a": "Grimmsnarl",
+        "faint": "Grimmsnarl"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334905390.json, index fucked, check dict['log']",
+    {
+        "p1a": "Heatran",
+        "p2a": "Mudbray",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Latios",
+        "p2a": "Tentacruel",
+        "faint": "Latios"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Sceptile",
+        "faint": "Zeraora"
+    },
+    {
+        "p1a": "Golbat",
+        "p2a": "Golbat, M",
+        "faint": "Golbat, M"
+    },
+    {
+        "p1a": "Bellossom",
+        "p2a": "Haxorus",
+        "faint": "Bellossom"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Avalugg",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Registeel",
+        "p2a": "Goodra",
+        "faint": "Registeel"
+    },
+    {
+        "p1a": "Zapdos",
+        "p2a": "Mudkip",
+        "faint": "Zapdos"
+    },
+    {
+        "p1a": "Mudkip",
+        "p2a": "Volcarona",
+        "faint": "Volcarona"
+    },
+    {
+        "p1a": "Gastrodon-East",
+        "p2a": "Urshifu",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Dragapult, M",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Clefable",
+        "p2a": "Shuckle",
+        "faint": "Clefable"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334873952.json, index fucked, check dict['log']",
+    {
+        "p1a": "Volcanion",
+        "p2a": "Volcanion",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Chansey",
+        "p2a": "Charizard",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Regidrago",
+        "p2a": "Sylveon",
+        "faint": "Regidrago"
+    },
+    {
+        "p1a": "Zapdos",
+        "p2a": "Swampert",
+        "faint": "Swampert"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon, F",
+        "faint": "Sylveon, F"
+    },
+    {
+        "p1a": "Walrein",
+        "p2a": "Miltank",
+        "faint": "Miltank"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334838182.json, index fucked, check dict['log']",
+    {
+        "p1a": "Blastoise",
+        "p2a": "Sylveon",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Volcanion",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Centiskorch",
+        "p2a": "Centiskorch, F",
+        "faint": "Centiskorch, F"
+    },
+    {
+        "p1a": "Centiskorch",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Latios",
+        "p2a": "Centiskorch",
+        "faint": "Latios"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Urshifu-Rapid-Strike, F",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Swampert",
+        "p2a": "Ferrothorn",
+        "faint": "Swampert"
+    },
+    {
+        "p1a": "Wobbuffet",
+        "p2a": "Wobbuffet, F",
+        "faint": "Wobbuffet"
+    },
+    {
+        "p1a": "Kyurem",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Bisharp",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Porygon2",
+        "p2a": "Avalugg",
+        "faint": "Avalugg"
+    },
+    {
+        "p1a": "Dracozolt",
+        "p2a": "Dracozolt",
+        "faint": "Dracozolt"
+    },
+    {
+        "p1a": "Swampert",
+        "p2a": "Pinsir",
+        "faint": "Swampert"
+    },
+    {
+        "p1a": "Trapinch",
+        "p2a": "Moltres",
+        "faint": "Moltres"
+    },
+    {
+        "p1a": "Bouffalant",
+        "p2a": "Corsola-Galar",
+        "faint": "Corsola-Galar"
+    },
+    {
+        "p1a": "Kartana",
+        "p2a": "Onix",
+        "faint": "Kartana"
+    },
+    {
+        "p1a": "Riolu",
+        "p2a": "Trapinch",
+        "faint": "Riolu"
+    },
+    {
+        "p1a": "Nihilego",
+        "p2a": "Amoonguss",
+        "faint": "Nihilego"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Urshifu",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Genesect",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Dragalge",
+        "p2a": "Dragalge",
+        "faint": "Dragalge"
+    },
+    {
+        "p1a": "Dragalge",
+        "p2a": "Dragalge",
+        "faint": "Dragalge"
+    },
+    {
+        "p1a": "Dragalge",
+        "p2a": "Dragalge",
+        "faint": "Dragalge"
+    },
+    {
+        "p1a": "Regidrago",
+        "p2a": "Regidrago",
+        "faint": "Regidrago"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334635562.json, index fucked, check dict['log']",
+    {
+        "p1a": "Ditto",
+        "p2a": "Ditto",
+        "faint": "Ditto"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Garchomp",
+        "faint": "Urshifu"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334563928.json, index fucked, check dict['log']",
+    {
+        "p1a": "Dragapult",
+        "p2a": "Dragapult, M",
+        "faint": "Dragapult, M"
+    },
+    {
+        "p1a": "Salamence",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Salamence",
+        "p2a": "Salamence, M",
+        "faint": "Salamence"
+    },
+    {
+        "p1a": "Entei",
+        "p2a": "Urshifu",
+        "faint": "Entei"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Urshifu",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Amoonguss",
+        "p2a": "Amoonguss",
+        "faint": "Amoonguss"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334481180.json, index fucked, check dict['log']",
+    {
+        "p1a": "Blissey",
+        "p2a": "Gallade",
+        "faint": "Blissey"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Genesect, shiny",
+        "faint": "Genesect, shiny"
+    },
+    {
+        "p1a": "Shedinja",
+        "p2a": "Blissey",
+        "faint": "Shedinja"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334471058.json, index fucked, check dict['log']",
+    {
+        "p1a": "Shuckle",
+        "p2a": "Magnezone",
+        "faint": "Magnezone"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Cresselia",
+        "faint": "Urshifu"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334454637.json, index fucked, check dict['log']",
+    {
+        "p1a": "Regieleki",
+        "p2a": "Sylveon",
+        "faint": "Regieleki"
+    },
+    {
+        "p1a": "Togekiss",
+        "p2a": "Sylveon",
+        "faint": "Togekiss"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334430655.json, index fucked, check dict['log']",
+    {
+        "p1a": "Zygarde",
+        "p2a": "Zygarde",
+        "faint": "Zygarde"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Weezing-Galar",
+        "faint": "Weezing-Galar"
+    },
+    {
+        "p1a": "Cresselia",
+        "p2a": "Crustle",
+        "faint": "Crustle"
+    },
+    {
+        "p1a": "Swampert",
+        "p2a": "Swampert, F",
+        "faint": "Swampert"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334425826.json, index fucked, check dict['log']",
+    {
+        "p1a": "Shuckle",
+        "p2a": "Shuckle, F",
+        "faint": "Shuckle"
+    },
+    {
+        "p1a": "Indeedee",
+        "p2a": "Dusknoir",
+        "faint": "Dusknoir"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334388585.json, index fucked, check dict['log']",
+    {
+        "p1a": "Corsola-Galar",
+        "p2a": "Corsola-Galar",
+        "faint": "Corsola-Galar"
+    },
+    {
+        "p1a": "Abra",
+        "p2a": "Shuckle",
+        "faint": "Shuckle"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334354273.json, index fucked, check dict['log']",
+    {
+        "p1a": "Volcanion",
+        "p2a": "Barraskewda",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Rillaboom, F",
+        "faint": "Rillaboom, F"
+    },
+    {
+        "p1a": "Tapu Koko",
+        "p2a": "Hydreigon",
+        "faint": "Hydreigon"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Tyranitar",
+        "faint": "Tyranitar"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Kyurem",
+        "p2a": "Heatran",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Urshifu",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Buzzwole",
+        "p2a": "Volcarona",
+        "faint": "Volcarona"
+    },
+    {
+        "p1a": "Whimsicott",
+        "p2a": "Chansey",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Charizard",
+        "p2a": "Trapinch",
+        "faint": "Charizard"
+    },
+    {
+        "p1a": "Primarina",
+        "p2a": "Abra",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Azumarill",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Celesteela",
+        "p2a": "Primarina",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Crobat",
+        "p2a": "Abra",
+        "faint": "Crobat"
+    },
+    {
+        "p1a": "Gengar",
+        "p2a": "Trapinch",
+        "faint": "Gengar"
+    },
+    {
+        "p1a": "Regidrago",
+        "p2a": "Tyranitar",
+        "faint": "Tyranitar"
+    },
+    {
+        "p1a": "Tapu Fini",
+        "p2a": "Entei",
+        "faint": "Entei"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Regieleki",
+        "faint": "Regieleki"
+    },
+    {
+        "p1a": "Abra",
+        "p2a": "Pyukumuku",
+        "faint": "Pyukumuku"
+    },
+    {
+        "p1a": "Registeel",
+        "p2a": "Registeel",
+        "faint": "Registeel"
+    },
+    {
+        "p1a": "Abra",
+        "p2a": "Swampert",
+        "faint": "Swampert"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon, F, shiny",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Registeel",
+        "p2a": "Ferrothorn",
+        "faint": "Ferrothorn"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334279137.json, index fucked, check dict['log']",
+    {
+        "p1a": "Drapion",
+        "p2a": "Shellos",
+        "faint": "Drapion"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Shuckle",
+        "faint": "Shuckle"
+    },
+    {
+        "p1a": "Zapdos-Galar",
+        "p2a": "Zapdos-Galar",
+        "faint": "Zapdos-Galar"
+    },
+    {
+        "p1a": "Excadrill",
+        "p2a": "Shellos",
+        "faint": "Excadrill"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334275843.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1334268022.json, index fucked, check dict['log']",
+    {
+        "p1a": "Primarina",
+        "p2a": "Togekiss",
+        "faint": "Togekiss"
+    },
+    {
+        "p1a": "Tapu Koko",
+        "p2a": "Whimsicott",
+        "faint": "Tapu Koko"
+    },
+    {
+        "p1a": "Aggron",
+        "p2a": "Aggron, M",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Registeel",
+        "p2a": "Haxorus",
+        "faint": "Haxorus"
+    },
+    {
+        "p1a": "Spectrier",
+        "p2a": "Primarina",
+        "faint": "Spectrier"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Rillaboom, M, shiny",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Haxorus",
+        "p2a": "Zygarde",
+        "faint": "Haxorus"
+    },
+    {
+        "p1a": "Zarude",
+        "p2a": "Sirfetch\u2019d",
+        "faint": "Zarude"
+    },
+    {
+        "p1a": "Togekiss",
+        "p2a": "Sylveon",
+        "faint": "Togekiss"
+    },
+    {
+        "p1a": "Tapu Fini",
+        "p2a": "Togekiss",
+        "faint": "Togekiss"
+    },
+    {
+        "p1a": "Chansey",
+        "p2a": "Chansey",
+        "faint": "Chansey"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334218886.json, index fucked, check dict['log']",
+    {
+        "p1a": "Necrozma",
+        "p2a": "Genesect",
+        "faint": "Necrozma"
+    },
+    {
+        "p1a": "Landorus-Therian",
+        "p2a": "Escavalier",
+        "faint": "Landorus-Therian"
+    },
+    {
+        "p1a": "Rotom-Heat",
+        "p2a": "Aggron",
+        "faint": "Rotom-Heat"
+    },
+    {
+        "p1a": "Aegislash",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Rapidash",
+        "p2a": "Magnemite",
+        "faint": "Magnemite"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1334174654.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1334162643.json, index fucked, check dict['log']",
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Obstagoon",
+        "faint": "Obstagoon"
+    },
+    {
+        "p1a": "Bisharp",
+        "p2a": "Landorus-Therian",
+        "faint": "Landorus-Therian"
+    },
+    {
+        "p1a": "Blastoise",
+        "p2a": "Azumarill",
+        "faint": "Azumarill"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Regieleki",
+        "faint": "Regieleki"
+    },
+    {
+        "p1a": "Pelipper",
+        "p2a": "Landorus-Therian",
+        "faint": "Landorus-Therian"
+    },
+    {
+        "p1a": "Mudkip",
+        "p2a": "Volcarona",
+        "faint": "Volcarona"
+    },
+    {
+        "p1a": "Arcanine",
+        "p2a": "Bisharp",
+        "faint": "Arcanine"
+    },
+    {
+        "p1a": "Mudkip",
+        "p2a": "Araquanid",
+        "faint": "Araquanid"
+    },
+    {
+        "p1a": "Chansey",
+        "p2a": "Chansey",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Cofagrigus",
+        "p2a": "Garchomp",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Togekiss",
+        "p2a": "Blacephalon",
+        "faint": "Blacephalon"
+    },
+    {
+        "p1a": "Mandibuzz",
+        "p2a": "Heatran",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Whiscash",
+        "p2a": "Whiscash",
+        "faint": "Whiscash"
+    },
+    {
+        "p1a": "Whiscash",
+        "p2a": "Whiscash",
+        "faint": "Whiscash"
+    },
+    {
+        "p1a": "Whiscash",
+        "p2a": "Whiscash",
+        "faint": "Whiscash"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Darmanitan-Galar, M",
+        "faint": "Darmanitan-Galar, M"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Latios",
+        "faint": "Latios"
+    },
+    {
+        "p1a": "Porygon-Z",
+        "p2a": "Conkeldurr",
+        "faint": "Conkeldurr"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Piloswine",
+        "faint": "Genesect"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333959823.json, index fucked, check dict['log']",
+    {
+        "p1a": "Volcanion",
+        "p2a": "Primarina",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Pheromosa",
+        "p2a": "Heatran",
+        "faint": "Pheromosa"
+    },
+    {
+        "p1a": "Kyurem",
+        "p2a": "Kyurem",
+        "faint": "Kyurem"
+    },
+    {
+        "p1a": "Boltund",
+        "p2a": "Slurpuff",
+        "faint": "Slurpuff"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Latias",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Blacephalon",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Heatran",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Heatran",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Regieleki",
+        "faint": "Regieleki"
+    },
+    {
+        "p1a": "Primarina",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Aggron",
+        "p2a": "Blissey",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Volcanion",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333837440.json, index fucked, check dict['log']",
+    {
+        "p1a": "Chansey",
+        "p2a": "Cresselia",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Inteleon",
+        "faint": "Genesect"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333792516.json, index fucked, check dict['log']",
+    {
+        "p1a": "Zapdos-Galar",
+        "p2a": "Zapdos-Galar",
+        "faint": "Zapdos-Galar"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Kartana",
+        "faint": "Kartana"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Genesect",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon, M",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Goodra",
+        "faint": "Goodra"
+    },
+    {
+        "p1a": "Aegislash",
+        "p2a": "Sylveon",
+        "faint": "Aegislash"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333760473.json, index fucked, check dict['log']",
+    {
+        "p1a": "Tyranitar",
+        "p2a": "Torkoal",
+        "faint": "Torkoal"
+    },
+    {
+        "p1a": "Clefable",
+        "p2a": "Clefable, F",
+        "faint": "Clefable"
+    },
+    {
+        "p1a": "Cresselia",
+        "p2a": "Cresselia, F",
+        "faint": "Cresselia, F"
+    },
+    {
+        "p1a": "Inteleon",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Incineroar",
+        "faint": "Incineroar"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Zygarde",
+        "faint": "Zygarde"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333707842.json, index fucked, check dict['log']",
+    {
+        "p1a": "Magnezone",
+        "p2a": "Cradily",
+        "faint": "Magnezone"
+    },
+    {
+        "p1a": "Inteleon",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Dusknoir",
+        "p2a": "Butterfree",
+        "faint": "Butterfree"
+    },
+    {
+        "p1a": "Aggron",
+        "p2a": "Carracosta",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Buzzwole",
+        "p2a": "Aromatisse",
+        "faint": "Buzzwole"
+    },
+    {
+        "p1a": "Kyurem",
+        "p2a": "Kyurem",
+        "faint": "Kyurem"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Jirachi",
+        "faint": "Dragapult"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333593065.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1333591474.json, index fucked, check dict['log']",
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Darmanitan-Galar, F",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Magnemite",
+        "p2a": "Aron",
+        "faint": "Aron"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Whimsicott",
+        "faint": "Regieleki"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Volcanion",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Golisopod",
+        "faint": "Golisopod"
+    },
+    {
+        "p1a": "Dracovish",
+        "p2a": "Lucario",
+        "faint": "Dracovish"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333506470.json, index fucked, check dict['log']",
+    {
+        "p1a": "Zapdos-Galar",
+        "p2a": "Zapdos-Galar",
+        "faint": "Zapdos-Galar"
+    },
+    {
+        "p1a": "Machamp",
+        "p2a": "Wobbuffet",
+        "faint": "Wobbuffet"
+    },
+    {
+        "p1a": "Blissey",
+        "p2a": "Machamp",
+        "faint": "Machamp"
+    },
+    {
+        "p1a": "Suicune",
+        "p2a": "Suicune, shiny",
+        "faint": "Suicune"
+    },
+    {
+        "p1a": "Trevenant",
+        "p2a": "Trevenant, F",
+        "faint": "Trevenant"
+    },
+    {
+        "p1a": "Porygon-Z",
+        "p2a": "Boltund",
+        "faint": "Boltund"
+    },
+    {
+        "p1a": "Metagross",
+        "p2a": "Type: Null",
+        "faint": "Type: Null"
+    },
+    {
+        "p1a": "Porygon-Z",
+        "p2a": "Steelix",
+        "faint": "Steelix"
+    },
+    {
+        "p1a": "Hitmonlee",
+        "p2a": "Blissey",
+        "faint": "Blissey"
+    },
+    {
+        "p1a": "Porygon-Z",
+        "p2a": "Electivire",
+        "faint": "Electivire"
+    },
+    {
+        "p1a": "Type: Null",
+        "p2a": "Cofagrigus",
+        "faint": "Type: Null"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333424100.json, index fucked, check dict['log']",
+    {
+        "p1a": "Type: Null",
+        "p2a": "Aron",
+        "faint": "Type: Null"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Corviknight",
+        "faint": "Corviknight"
+    },
+    {
+        "p1a": "Trevenant",
+        "p2a": "Arcanine",
+        "faint": "Trevenant"
+    },
+    {
+        "p1a": "Gengar",
+        "p2a": "Gengar, M",
+        "faint": "Gengar"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Pelipper",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Thievul",
+        "p2a": "Thievul",
+        "faint": "Thievul"
+    },
+    {
+        "p1a": "Thievul",
+        "p2a": "Thievul",
+        "faint": "Thievul"
+    },
+    {
+        "p1a": "Thievul",
+        "p2a": "Thievul",
+        "faint": "Thievul"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Magnemite",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Cinccino",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Volcarona",
+        "p2a": "Arcanine",
+        "faint": "Arcanine"
+    },
+    {
+        "p1a": "Unfezant",
+        "p2a": "Unfezant",
+        "faint": "Unfezant"
+    },
+    {
+        "p1a": "Unfezant",
+        "p2a": "Unfezant",
+        "faint": "Unfezant"
+    },
+    {
+        "p1a": "Unfezant",
+        "p2a": "Unfezant",
+        "faint": "Unfezant"
+    },
+    {
+        "p1a": "Tapu Bulu",
+        "p2a": "Heatran",
+        "faint": "Tapu Bulu"
+    },
+    {
+        "p1a": "Salazzle",
+        "p2a": "Salazzle, F",
+        "faint": "Salazzle"
+    },
+    {
+        "p1a": "Primarina",
+        "p2a": "Primarina, M",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Sylveon",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Glastrier",
+        "p2a": "Seismitoad",
+        "faint": "Glastrier"
+    },
+    {
+        "p1a": "Glastrier",
+        "p2a": "Seismitoad",
+        "faint": "Seismitoad"
+    },
+    {
+        "p1a": "Aggron",
+        "p2a": "Aggron, F, shiny",
+        "faint": "Aggron, F, shiny"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Rillaboom",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333230393.json, index fucked, check dict['log']",
+    {
+        "p1a": "Boltund",
+        "p2a": "Nidoking",
+        "faint": "Nidoking"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Garchomp",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Sawk",
+        "faint": "Sawk"
+    },
+    {
+        "p1a": "Zygarde-10%",
+        "p2a": "Zygarde-10%",
+        "faint": "Zygarde-10%"
+    },
+    {
+        "p1a": "Glastrier",
+        "p2a": "Genesect",
+        "faint": "Glastrier"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Zygarde",
+        "faint": "Zygarde"
+    },
+    {
+        "p1a": "Zapdos",
+        "p2a": "Genesect",
+        "faint": "Zapdos"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Genesect",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Urshifu",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Sylveon",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Garchomp",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Marshtomp",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Garchomp",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Pyukumuku",
+        "p2a": "Pyukumuku, M, shiny",
+        "faint": "Pyukumuku"
+    },
+    {
+        "p1a": "Ferroseed",
+        "p2a": "Togekiss",
+        "faint": "Ferroseed"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Zygarde",
+        "faint": "Zygarde"
+    },
+    {
+        "p1a": "Togekiss",
+        "p2a": "Togekiss, F",
+        "faint": "Togekiss, F"
+    },
+    {
+        "p1a": "Hydreigon",
+        "p2a": "Hydreigon, M, shiny",
+        "faint": "Hydreigon"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Porygon-Z",
+        "p2a": "Gengar",
+        "faint": "Porygon-Z"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Jirachi",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Aggron",
+        "p2a": "Rhyperior",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Aromatisse",
+        "faint": "Aromatisse"
+    },
+    {
+        "p1a": "Aromatisse",
+        "p2a": "Aromatisse, M",
+        "faint": "Aromatisse"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Jirachi",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Jirachi",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Chandelure",
+        "p2a": "Rhyperior",
+        "faint": "Chandelure"
+    },
+    {
+        "p1a": "Rhyperior",
+        "p2a": "Urshifu",
+        "faint": "Urshifu"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333187898.json, index fucked, check dict['log']",
+    {
+        "p1a": "Urshifu",
+        "p2a": "Rhyperior",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Jirachi",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333177329.json, index fucked, check dict['log']",
+    {
+        "p1a": "Jirachi",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Arcanine",
+        "p2a": "Aggron",
+        "faint": "Arcanine"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Zygarde",
+        "faint": "Zygarde"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Urshifu-Rapid-Strike, F",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Togekiss",
+        "p2a": "Togekiss, M, shiny",
+        "faint": "Togekiss"
+    },
+    {
+        "p1a": "Swampert",
+        "p2a": "Swampert, M",
+        "faint": "Swampert"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333173397.json, index fucked, check dict['log']",
+    {
+        "p1a": "Jirachi",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon, M",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Machamp",
+        "p2a": "Machamp, F",
+        "faint": "Machamp, F"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon, M",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Type: Null",
+        "faint": "Type: Null"
+    },
+    {
+        "p1a": "Rhyperior",
+        "p2a": "Genesect",
+        "faint": "Rhyperior"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333157838.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1333157310.json, index fucked, check dict['log']",
+    {
+        "p1a": "Buzzwole",
+        "p2a": "Buzzwole",
+        "faint": "Buzzwole"
+    },
+    {
+        "p1a": "Rhyperior",
+        "p2a": "Sylveon",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Zygarde",
+        "faint": "Zygarde"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333154171.json, index fucked, check dict['log']",
+    {
+        "p1a": "Sylveon",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Rhyperior",
+        "faint": "Sylveon"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333153212.json, index fucked, check dict['log']",
+    {
+        "p1a": "Arcanine",
+        "p2a": "Cresselia",
+        "faint": "Arcanine"
+    },
+    {
+        "p1a": "Regirock",
+        "p2a": "Landorus",
+        "faint": "Landorus"
+    },
+    {
+        "p1a": "Garchomp",
+        "p2a": "Landorus-Therian",
+        "faint": "Landorus-Therian"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333096046.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1333080884.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1333074731.json, index fucked, check dict['log']",
+    {
+        "p1a": "Jirachi",
+        "p2a": "Jirachi, shiny",
+        "faint": "Jirachi, shiny"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Raikou",
+        "p2a": "Raikou",
+        "faint": "Raikou"
+    },
+    {
+        "p1a": "Magnezone",
+        "p2a": "Magnezone",
+        "faint": "Magnezone"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Urshifu",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Tapu Fini",
+        "p2a": "Centiskorch",
+        "faint": "Tapu Fini"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Rillaboom, M, shiny",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Diancie",
+        "p2a": "Incineroar",
+        "faint": "Diancie"
+    },
+    {
+        "p1a": "Cresselia",
+        "p2a": "Avalugg",
+        "faint": "Cresselia"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Dragapult, M",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Kyurem",
+        "p2a": "Kyurem",
+        "faint": "Kyurem"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Charizard",
+        "p2a": "Clefable",
+        "faint": "Clefable"
+    },
+    {
+        "p1a": "Durant",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1333026007.json, index fucked, check dict['log']",
+    {
+        "p1a": "Aegislash",
+        "p2a": "Aegislash, F",
+        "faint": "Aegislash, F"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Haxorus",
+        "faint": "Haxorus"
+    },
+    {
+        "p1a": "Zapdos-Galar",
+        "p2a": "Haxorus",
+        "faint": "Haxorus"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Rillaboom",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Rhyperior",
+        "p2a": "Rillaboom",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Avalugg, M",
+        "faint": "Avalugg"
+    },
+    {
+        "p1a": "Sawk",
+        "p2a": "Sawk, M",
+        "faint": "Sawk"
+    },
+    {
+        "p1a": "Garchomp",
+        "p2a": "Garchomp, M",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Shellos",
+        "p2a": "Ribombee",
+        "faint": "Ribombee"
+    },
+    {
+        "p1a": "Swampert",
+        "p2a": "Goodra",
+        "faint": "Swampert"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Aromatisse",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Tapu Lele",
+        "p2a": "Dragapult",
+        "faint": "Tapu Lele"
+    },
+    {
+        "p1a": "Regidrago",
+        "p2a": "Haxorus",
+        "faint": "Regidrago"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332996071.json, index fucked, check dict['log']",
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Sawk",
+        "faint": "Sawk"
+    },
+    {
+        "p1a": "Regidrago",
+        "p2a": "Weavile",
+        "faint": "Weavile"
+    },
+    {
+        "p1a": "Haxorus",
+        "p2a": "Pelipper",
+        "faint": "Pelipper"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Ferrothorn",
+        "faint": "Ferrothorn"
+    },
+    {
+        "p1a": "Swoobat",
+        "p2a": "Swoobat",
+        "faint": "Swoobat"
+    },
+    {
+        "p1a": "Swoobat",
+        "p2a": "Swoobat",
+        "faint": "Swoobat"
+    },
+    {
+        "p1a": "Pheromosa",
+        "p2a": "Rhyperior",
+        "faint": "Rhyperior"
+    },
+    {
+        "p1a": "Toxtricity",
+        "p2a": "Tapu Lele",
+        "faint": "Tapu Lele"
+    },
+    {
+        "p1a": "Pheromosa",
+        "p2a": "Pheromosa",
+        "faint": "Pheromosa"
+    },
+    {
+        "p1a": "Aggron",
+        "p2a": "Aggron, F",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Rotom-Heat",
+        "p2a": "Rotom-Heat",
+        "faint": "Rotom-Heat"
+    },
+    {
+        "p1a": "Tapu Fini",
+        "p2a": "Slowking-Galar",
+        "faint": "Tapu Fini"
+    },
+    {
+        "p1a": "Incineroar",
+        "p2a": "Venusaur",
+        "faint": "Incineroar"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332906295.json, index fucked, check dict['log']",
+    {
+        "p1a": "Keldeo-Resolute",
+        "p2a": "Keldeo-Resolute",
+        "faint": "Keldeo-Resolute"
+    },
+    {
+        "p1a": "Guzzlord",
+        "p2a": "Haxorus",
+        "faint": "Guzzlord"
+    },
+    {
+        "p1a": "Whimsicott",
+        "p2a": "Sawk",
+        "faint": "Sawk"
+    },
+    {
+        "p1a": "Celesteela",
+        "p2a": "Celesteela",
+        "faint": "Celesteela"
+    },
+    {
+        "p1a": "Salamence",
+        "p2a": "Sawk",
+        "faint": "Sawk"
+    },
+    {
+        "p1a": "Zapdos",
+        "p2a": "Bouffalant",
+        "faint": "Zapdos"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Cresselia",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Aron",
+        "p2a": "Heatran",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Arcanine",
+        "p2a": "Arcanine, M",
+        "faint": "Arcanine, M"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Aggron",
+        "p2a": "Aggron, M",
+        "faint": "Aggron, M"
+    },
+    {
+        "p1a": "Kyurem",
+        "p2a": "Primarina",
+        "faint": "Kyurem"
+    },
+    {
+        "p1a": "Armaldo",
+        "p2a": "Latios",
+        "faint": "Latios"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Zygarde",
+        "faint": "Zygarde"
+    },
+    {
+        "p1a": "Blissey",
+        "p2a": "Dragapult",
+        "faint": "Blissey"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Avalugg, F",
+        "faint": "Avalugg, F"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Zeraora",
+        "faint": "Zeraora"
+    },
+    {
+        "p1a": "Tapu Fini",
+        "p2a": "Darmanitan",
+        "faint": "Tapu Fini"
+    },
+    {
+        "p1a": "Keldeo-Resolute",
+        "p2a": "Keldeo-Resolute",
+        "faint": "Keldeo-Resolute"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Volcanion",
+        "faint": "Volcanion"
+    },
+    {
+        "p1a": "Porygon-Z",
+        "p2a": "Scizor",
+        "faint": "Scizor"
+    },
+    {
+        "p1a": "Tornadus",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Landorus-Therian",
+        "p2a": "Primarina",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Genesect",
+        "faint": "Regieleki"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Urshifu-Rapid-Strike, M",
+        "faint": "Urshifu-Rapid-Strike, M"
+    },
+    {
+        "p1a": "Whimsicott",
+        "p2a": "Urshifu",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Corsola-Galar",
+        "faint": "Corsola-Galar"
+    },
+    {
+        "p1a": "Primarina",
+        "p2a": "Garchomp",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Klefki",
+        "faint": "Avalugg"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Avalugg",
+        "faint": "Avalugg"
+    },
+    {
+        "p1a": "Venusaur",
+        "p2a": "Raboot",
+        "faint": "Venusaur"
+    },
+    {
+        "p1a": "Boltund",
+        "p2a": "Azumarill",
+        "faint": "Azumarill"
+    },
+    {
+        "p1a": "Venusaur",
+        "p2a": "Raboot",
+        "faint": "Venusaur"
+    },
+    {
+        "p1a": "Zapdos-Galar",
+        "p2a": "Dragapult",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Toxapex",
+        "p2a": "Toxapex, M",
+        "faint": "Toxapex"
+    },
+    {
+        "p1a": "Corsola-Galar",
+        "p2a": "Corsola-Galar, M, shiny",
+        "faint": "Corsola-Galar"
+    },
+    {
+        "p1a": "Regidrago",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Regidrago"
+    },
+    {
+        "p1a": "Primarina",
+        "p2a": "Aegislash",
+        "faint": "Aegislash"
+    },
+    {
+        "p1a": "Archeops",
+        "p2a": "Shuckle",
+        "faint": "Archeops"
+    },
+    {
+        "p1a": "Swampert",
+        "p2a": "Aegislash",
+        "faint": "Swampert"
+    },
+    {
+        "p1a": "Zarude-Dada",
+        "p2a": "Wooper",
+        "faint": "Zarude-Dada"
+    },
+    {
+        "p1a": "Pyukumuku",
+        "p2a": "Swampert",
+        "faint": "Pyukumuku"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Landorus-Therian",
+        "faint": "Rillaboom"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332635358.json, index fucked, check dict['log']",
+    {
+        "p1a": "Sylveon",
+        "p2a": "Urshifu",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Dwebble",
+        "p2a": "Dwebble, F",
+        "faint": "Dwebble, F"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Zeraora",
+        "faint": "Zeraora"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Sylveon",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Tyranitar",
+        "p2a": "Tyranitar, M",
+        "faint": "Tyranitar, M"
+    },
+    {
+        "p1a": "Registeel",
+        "p2a": "Rillaboom",
+        "faint": "Registeel"
+    },
+    {
+        "p1a": "Suicune",
+        "p2a": "Suicune",
+        "faint": "Suicune"
+    },
+    {
+        "p1a": "Pheromosa",
+        "p2a": "Clefable",
+        "faint": "Clefable"
+    },
+    {
+        "p1a": "Guzzlord",
+        "p2a": "Hydreigon",
+        "faint": "Hydreigon"
+    },
+    {
+        "p1a": "Venusaur",
+        "p2a": "Venusaur, F",
+        "faint": "Venusaur"
+    },
+    {
+        "p1a": "Musharna",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Musharna"
+    },
+    {
+        "p1a": "Sandaconda",
+        "p2a": "Sandaconda, F",
+        "faint": "Sandaconda, F"
+    },
+    {
+        "p1a": "Primarina",
+        "p2a": "Primarina, F, shiny",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Darmanitan",
+        "faint": "Darmanitan"
+    },
+    {
+        "p1a": "Tapu Fini",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Spectrier",
+        "p2a": "Garchomp",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Swampert",
+        "p2a": "Swampert, M",
+        "faint": "Swampert"
+    },
+    {
+        "p1a": "Spectrier",
+        "p2a": "Spectrier",
+        "faint": "Spectrier"
+    },
+    {
+        "p1a": "Crustle",
+        "p2a": "Primarina",
+        "faint": "Crustle"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332513859.json, index fucked, check dict['log']",
+    {
+        "p1a": "Necrozma",
+        "p2a": "Necrozma",
+        "faint": "Necrozma"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Sceptile",
+        "faint": "Sceptile"
+    },
+    {
+        "p1a": "Carracosta",
+        "p2a": "Hippowdon",
+        "faint": "Hippowdon"
+    },
+    {
+        "p1a": "Zapdos",
+        "p2a": "Primarina",
+        "faint": "Zapdos"
+    },
+    {
+        "p1a": "Ferrothorn",
+        "p2a": "Garchomp",
+        "faint": "Ferrothorn"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Salamence",
+        "faint": "Salamence"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Zeraora",
+        "faint": "Zeraora"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332507709.json, index fucked, check dict['log']",
+    {
+        "p1a": "Zapdos",
+        "p2a": "Volcarona",
+        "faint": "Zapdos"
+    },
+    {
+        "p1a": "Xurkitree",
+        "p2a": "Heatran",
+        "faint": "Xurkitree"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Avalugg"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Dragapult",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Pheromosa",
+        "p2a": "Pheromosa",
+        "faint": "Pheromosa"
+    },
+    {
+        "p1a": "Nidoking",
+        "p2a": "Primarina",
+        "faint": "Nidoking"
+    },
+    {
+        "p1a": "Wailmer",
+        "p2a": "Stakataka",
+        "faint": "Stakataka"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332485791.json, index fucked, check dict['log']",
+    {
+        "p1a": "Pheromosa",
+        "p2a": "Clefable",
+        "faint": "Clefable"
+    },
+    {
+        "p1a": "Magnezone",
+        "p2a": "Nidoking",
+        "faint": "Magnezone"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Genesect, shiny",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Porygon-Z",
+        "p2a": "Porygon-Z",
+        "faint": "Porygon-Z"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Tapu Fini",
+        "p2a": "Tapu Fini",
+        "faint": "Tapu Fini"
+    },
+    {
+        "p1a": "Arcanine",
+        "p2a": "Arcanine, M, shiny",
+        "faint": "Arcanine"
+    },
+    {
+        "p1a": "Arcanine",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Pheromosa",
+        "p2a": "Centiskorch",
+        "faint": "Centiskorch"
+    },
+    {
+        "p1a": "Conkeldurr",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Conkeldurr"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332407246.json, index fucked, check dict['log']",
+    {
+        "p1a": "Slowbro-Galar",
+        "p2a": "Bouffalant",
+        "faint": "Bouffalant"
+    },
+    {
+        "p1a": "Carracosta",
+        "p2a": "Garchomp",
+        "faint": "Carracosta"
+    },
+    {
+        "p1a": "Silvally-Fairy",
+        "p2a": "Gyarados",
+        "faint": "Gyarados"
+    },
+    {
+        "p1a": "Arcanine",
+        "p2a": "Arcanine, F",
+        "faint": "Arcanine, F"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332400833.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1332399848.json, index fucked, check dict['log']",
+    {
+        "p1a": "Arcanine",
+        "p2a": "Arcanine, F",
+        "faint": "Arcanine"
+    },
+    {
+        "p1a": "Bouffalant",
+        "p2a": "Slowbro-Galar",
+        "faint": "Bouffalant"
+    },
+    {
+        "p1a": "Arcanine",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Urshifu",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Hydreigon",
+        "p2a": "Hydreigon, M",
+        "faint": "Hydreigon, M"
+    },
+    {
+        "p1a": "Registeel",
+        "p2a": "Registeel",
+        "faint": "Registeel"
+    },
+    {
+        "p1a": "Registeel",
+        "p2a": "Registeel",
+        "faint": "Registeel"
+    },
+    {
+        "p1a": "Crustle",
+        "p2a": "Tapu Koko",
+        "faint": "Crustle"
+    },
+    {
+        "p1a": "Crustle",
+        "p2a": "Tapu Koko",
+        "faint": "Crustle"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332369117.json, index fucked, check dict['log']",
+    {
+        "p1a": "Crustle",
+        "p2a": "Kartana",
+        "faint": "Kartana"
+    },
+    {
+        "p1a": "Dracovish",
+        "p2a": "Pyukumuku",
+        "faint": "Dracovish"
+    },
+    {
+        "p1a": "Pyukumuku",
+        "p2a": "Hawlucha",
+        "faint": "Hawlucha"
+    },
+    {
+        "p1a": "Gastrodon-East",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Gastrodon-East"
+    },
+    {
+        "p1a": "Sawk",
+        "p2a": "Weavile",
+        "faint": "Sawk"
+    },
+    {
+        "p1a": "Sawk",
+        "p2a": "Sawk, M",
+        "faint": "Sawk, M"
+    },
+    {
+        "p1a": "Chansey",
+        "p2a": "Dracovish",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Tapu Koko",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Corviknight",
+        "p2a": "Dragapult",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Crustle",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Silvally-Fairy",
+        "p2a": "Garchomp",
+        "faint": "Silvally-Fairy"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332348184.json, index fucked, check dict['log']",
+    {
+        "p1a": "Genesect",
+        "p2a": "Dracovish",
+        "faint": "Dracovish"
+    },
+    {
+        "p1a": "Dracovish",
+        "p2a": "Trevenant",
+        "faint": "Trevenant"
+    },
+    {
+        "p1a": "Crustle",
+        "p2a": "Magnemite",
+        "faint": "Magnemite"
+    },
+    {
+        "p1a": "Clawitzer",
+        "p2a": "Obstagoon",
+        "faint": "Obstagoon"
+    },
+    {
+        "p1a": "Sawk",
+        "p2a": "Haxorus",
+        "faint": "Sawk"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Umbreon",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Celebi",
+        "p2a": "Bewear",
+        "faint": "Bewear"
+    },
+    {
+        "p1a": "Ferrothorn",
+        "p2a": "Clawitzer",
+        "faint": "Ferrothorn"
+    },
+    {
+        "p1a": "Hitmonchan",
+        "p2a": "Ninetales-Alola",
+        "faint": "Ninetales-Alola"
+    },
+    {
+        "p1a": "Golisopod",
+        "p2a": "Golisopod, M",
+        "faint": "Golisopod, M"
+    },
+    {
+        "p1a": "Charmeleon",
+        "p2a": "Durant",
+        "faint": "Charmeleon"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Golisopod",
+        "faint": "Genesect"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332293955.json, index fucked, check dict['log']",
+    {
+        "p1a": "Togedemaru",
+        "p2a": "Blissey",
+        "faint": "Blissey"
+    },
+    {
+        "p1a": "Copperajah",
+        "p2a": "Dragapult",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Nidoking",
+        "p2a": "Tyrantrum",
+        "faint": "Nidoking"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332275862.json, index fucked, check dict['log']",
+    {
+        "p1a": "Pichu",
+        "p2a": "Pichu",
+        "faint": "Pichu"
+    },
+    {
+        "p1a": "Primarina",
+        "p2a": "Nidoking",
+        "faint": "Primarina"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332248138.json, index fucked, check dict['log']",
+    {
+        "p1a": "Hydreigon",
+        "p2a": "Hydreigon, F",
+        "faint": "Hydreigon, F"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332231110.json, index fucked, check dict['log']",
+    {
+        "p1a": "Moltres-Galar",
+        "p2a": "Moltres-Galar",
+        "faint": "Moltres-Galar"
+    },
+    {
+        "p1a": "Zapdos-Galar",
+        "p2a": "Zapdos-Galar",
+        "faint": "Zapdos-Galar"
+    },
+    {
+        "p1a": "Inteleon",
+        "p2a": "Inteleon, M",
+        "faint": "Inteleon"
+    },
+    {
+        "p1a": "Porygon2",
+        "p2a": "Porygon2",
+        "faint": "Porygon2"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Avalugg, F",
+        "faint": "Avalugg"
+    },
+    {
+        "p1a": "Venusaur",
+        "p2a": "Araquanid",
+        "faint": "Araquanid"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332127169.json, index fucked, check dict['log']",
+    {
+        "p1a": "Gloom",
+        "p2a": "Gloom, M",
+        "faint": "Gloom, M"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Rotom-Heat",
+        "faint": "Rotom-Heat"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332120188.json, index fucked, check dict['log']",
+    {
+        "p1a": "Genesect",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Blastoise",
+        "faint": "Blastoise"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Primarina",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Gyarados",
+        "p2a": "Sylveon",
+        "faint": "Gyarados"
+    },
+    {
+        "p1a": "Cresselia",
+        "p2a": "Cresselia, F",
+        "faint": "Cresselia, F"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Sylveon",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Garchomp",
+        "p2a": "Garchomp, M",
+        "faint": "Garchomp, M"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1332071442.json, index fucked, check dict['log']",
+    {
+        "p1a": "Genesect",
+        "p2a": "Genesect, shiny",
+        "faint": "Genesect, shiny"
+    },
+    {
+        "p1a": "Diggersby",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    {
+        "p1a": "Magnezone",
+        "p2a": "Aromatisse",
+        "faint": "Aromatisse"
+    },
+    {
+        "p1a": "Hydreigon",
+        "p2a": "Druddigon",
+        "faint": "Hydreigon"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Urshifu, M",
+        "faint": "Urshifu, M"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Mudsdale",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Mudsdale",
+        "p2a": "Cresselia",
+        "faint": "Cresselia"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Genesect, shiny",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Genesect, shiny",
+        "faint": "Genesect, shiny"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331998804.json, index fucked, check dict['log']",
+    {
+        "p1a": "Garchomp",
+        "p2a": "Ferrothorn",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Swampert",
+        "p2a": "Avalugg",
+        "faint": "Swampert"
+    },
+    {
+        "p1a": "Araquanid",
+        "p2a": "Regidrago",
+        "faint": "Araquanid"
+    },
+    {
+        "p1a": "Landorus-Therian",
+        "p2a": "Chansey",
+        "faint": "Landorus-Therian"
+    },
+    {
+        "p1a": "Necrozma",
+        "p2a": "Necrozma",
+        "faint": "Necrozma"
+    },
+    {
+        "p1a": "Pyukumuku",
+        "p2a": "Heatran",
+        "faint": "Pyukumuku"
+    },
+    {
+        "p1a": "Accelgor",
+        "p2a": "Accelgor, F, shiny",
+        "faint": "Accelgor, F, shiny"
+    },
+    {
+        "p1a": "Celebi",
+        "p2a": "Celebi",
+        "faint": "Celebi"
+    },
+    {
+        "p1a": "Garchomp",
+        "p2a": "Garchomp, M, shiny",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Krabby",
+        "p2a": "Dusknoir",
+        "faint": "Krabby"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331914602.json, index fucked, check dict['log']",
+    {
+        "p1a": "Corviknight",
+        "p2a": "Dusknoir",
+        "faint": "Corviknight"
+    },
+    {
+        "p1a": "Aegislash",
+        "p2a": "Aegislash, M, shiny",
+        "faint": "Aegislash, M, shiny"
+    },
+    {
+        "p1a": "Mamoswine",
+        "p2a": "Garchomp",
+        "faint": "Garchomp"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331890355.json, index fucked, check dict['log']",
+    {
+        "p1a": "Wartortle",
+        "p2a": "Tyrantrum",
+        "faint": "Tyrantrum"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Zygarde",
+        "faint": "Zygarde"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331876151.json, index fucked, check dict['log']",
+    {
+        "p1a": "Roserade",
+        "p2a": "Roserade, F",
+        "faint": "Roserade"
+    },
+    {
+        "p1a": "Roserade",
+        "p2a": "Kyurem",
+        "faint": "Roserade"
+    },
+    {
+        "p1a": "Roserade",
+        "p2a": "Roserade, M",
+        "faint": "Roserade, M"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Drifblim",
+        "faint": "Urshifu-Rapid-Strike"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331869803.json, index fucked, check dict['log']",
+    {
+        "p1a": "Scrafty",
+        "p2a": "Alakazam",
+        "faint": "Alakazam"
+    },
+    {
+        "p1a": "Bisharp",
+        "p2a": "Sawk",
+        "faint": "Bisharp"
+    },
+    {
+        "p1a": "Arcanine",
+        "p2a": "Tapu Fini",
+        "faint": "Arcanine"
+    },
+    {
+        "p1a": "Nidoking",
+        "p2a": "Nidoking, M",
+        "faint": "Nidoking"
+    },
+    {
+        "p1a": "Rillaboom",
+        "p2a": "Goodra",
+        "faint": "Rillaboom"
+    },
+    {
+        "p1a": "Bewear",
+        "p2a": "Alakazam",
+        "faint": "Bewear"
+    },
+    {
+        "p1a": "Magnezone",
+        "p2a": "Inteleon",
+        "faint": "Inteleon"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Torkoal",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Necrozma",
+        "p2a": "Necrozma",
+        "faint": "Necrozma"
+    },
+    {
+        "p1a": "Zapdos",
+        "p2a": "Zapdos",
+        "faint": "Zapdos"
+    },
+    {
+        "p1a": "Aegislash",
+        "p2a": "Sudowoodo",
+        "faint": "Sudowoodo"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331815716.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1331813960.json, index fucked, check dict['log']",
+    {
+        "p1a": "Aggron",
+        "p2a": "Durant",
+        "faint": "Durant"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Jirachi, shiny",
+        "faint": "Jirachi, shiny"
+    },
+    {
+        "p1a": "Togekiss",
+        "p2a": "Genesect",
+        "faint": "Togekiss"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Dragapult, M",
+        "faint": "Dragapult, M"
+    },
+    {
+        "p1a": "Urshifu-Rapid-Strike",
+        "p2a": "Octillery",
+        "faint": "Octillery"
+    },
+    {
+        "p1a": "Venusaur",
+        "p2a": "Venusaur, F",
+        "faint": "Venusaur, F"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Zeraora",
+        "faint": "Zeraora"
+    },
+    {
+        "p1a": "Suicune",
+        "p2a": "Garchomp",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Diancie",
+        "p2a": "Sylveon",
+        "faint": "Diancie"
+    },
+    {
+        "p1a": "Alcremie-Caramel-Swirl",
+        "p2a": "Goodra",
+        "faint": "Alcremie-Caramel-Swirl"
+    },
+    {
+        "p1a": "Suicune",
+        "p2a": "Raboot",
+        "faint": "Raboot"
+    },
+    {
+        "p1a": "Dracovish",
+        "p2a": "Dracovish",
+        "faint": "Dracovish"
+    },
+    {
+        "p1a": "Pheromosa",
+        "p2a": "Grimmsnarl",
+        "faint": "Grimmsnarl"
+    },
+    {
+        "p1a": "Venusaur",
+        "p2a": "Venusaur, M",
+        "faint": "Venusaur"
+    },
+    {
+        "p1a": "Venusaur",
+        "p2a": "Pheromosa",
+        "faint": "Venusaur"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331766407.json, index fucked, check dict['log']",
+    {
+        "p1a": "Chansey",
+        "p2a": "Blissey",
+        "faint": "Chansey"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331757512.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1331752842.json, index fucked, check dict['log']",
+    {
+        "p1a": "Krabby",
+        "p2a": "Bisharp",
+        "faint": "Bisharp"
+    },
+    {
+        "p1a": "Chansey",
+        "p2a": "Chansey",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Incineroar",
+        "p2a": "Incineroar, F",
+        "faint": "Incineroar"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Jirachi, shiny",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Volcarona",
+        "faint": "Volcarona"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331690950.json, index fucked, check dict['log']",
+    {
+        "p1a": "Regidrago",
+        "p2a": "Pheromosa",
+        "faint": "Regidrago"
+    },
+    {
+        "p1a": "Slowbro-Galar",
+        "p2a": "Slowbro-Galar, M",
+        "faint": "Slowbro-Galar, M"
+    },
+    {
+        "p1a": "Zygarde",
+        "p2a": "Marshtomp",
+        "faint": "Zygarde"
+    },
+    {
+        "p1a": "Genesect",
+        "p2a": "Diggersby",
+        "faint": "Diggersby"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Marshtomp",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Squirtle",
+        "p2a": "Dragapult",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Nihilego",
+        "p2a": "Primarina",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Nihilego",
+        "p2a": "Urshifu",
+        "faint": "Urshifu"
+    },
+    {
+        "p1a": "Zeraora",
+        "p2a": "Marshtomp",
+        "faint": "Zeraora"
+    },
+    {
+        "p1a": "Porygon2",
+        "p2a": "Garchomp",
+        "faint": "Porygon2"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Marshtomp",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Slowpoke",
+        "p2a": "Hippowdon",
+        "faint": "Hippowdon"
+    },
+    {
+        "p1a": "Mandibuzz",
+        "p2a": "Chansey",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Celesteela",
+        "p2a": "Vileplume",
+        "faint": "Vileplume"
+    },
+    {
+        "p1a": "Tapu Lele",
+        "p2a": "Avalugg",
+        "faint": "Tapu Lele"
+    },
+    {
+        "p1a": "Thundurus-Therian",
+        "p2a": "Thundurus-Therian, M",
+        "faint": "Thundurus-Therian, M"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Blissey",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Hitmonlee",
+        "p2a": "Urshifu",
+        "faint": "Urshifu"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331573125.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1331573439.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1331529579.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1331504389.json, index fucked, check dict['log']",
+    {
+        "p1a": "Weezing-Galar",
+        "p2a": "Tornadus",
+        "faint": "Weezing-Galar"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Sliggoo",
+        "faint": "Sliggoo"
+    },
+    {
+        "p1a": "Altaria",
+        "p2a": "Aegislash",
+        "faint": "Altaria"
+    },
+    {
+        "p1a": "Dragalge",
+        "p2a": "Wobbuffet",
+        "faint": "Dragalge"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331441563.json, index fucked, check dict['log']",
+    {
+        "p1a": "Tyranitar",
+        "p2a": "Dunsparce",
+        "faint": "Dunsparce"
+    },
+    {
+        "p1a": "Durant",
+        "p2a": "Scorbunny",
+        "faint": "Durant"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331415878.json, index fucked, check dict['log']",
+    {
+        "p1a": "Volcanion",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Volcanion"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331392154.json, index fucked, check dict['log']",
+    {
+        "p1a": "Glastrier",
+        "p2a": "Primarina",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Golisopod",
+        "p2a": "Golisopod, F",
+        "faint": "Golisopod"
+    },
+    {
+        "p1a": "Chansey",
+        "p2a": "Chansey",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Rotom-Heat",
+        "p2a": "Landorus-Therian",
+        "faint": "Landorus-Therian"
+    },
+    {
+        "p1a": "Espeon",
+        "p2a": "Espeon, M",
+        "faint": "Espeon, M"
+    },
+    {
+        "p1a": "Garchomp",
+        "p2a": "Garchomp, F",
+        "faint": "Garchomp"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Regieleki",
+        "faint": "Regieleki"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Heatran",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Dragapult",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Pelipper",
+        "p2a": "Pelipper",
+        "faint": "Pelipper"
+    },
+    {
+        "p1a": "Sirfetch\u2019d",
+        "p2a": "Darmanitan",
+        "faint": "Darmanitan"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331308578.json, index fucked, check dict['log']",
+    {
+        "p1a": "Zygarde",
+        "p2a": "Aegislash",
+        "faint": "Aegislash"
+    },
+    {
+        "p1a": "Dracovish",
+        "p2a": "Dracovish",
+        "faint": "Dracovish"
+    },
+    {
+        "p1a": "Porygon-Z",
+        "p2a": "Clefable",
+        "faint": "Porygon-Z"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331304355.json, index fucked, check dict['log']",
+    {
+        "p1a": "Primarina",
+        "p2a": "Wishiwashi",
+        "faint": "Wishiwashi"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Dragapult, M, shiny",
+        "faint": "Dragapult, M, shiny"
+    },
+    {
+        "p1a": "Whimsicott",
+        "p2a": "Gastly",
+        "faint": "Whimsicott"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Rillaboom",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Sylveon, F",
+        "faint": "Sylveon, F"
+    },
+    {
+        "p1a": "Necrozma",
+        "p2a": "Golisopod",
+        "faint": "Golisopod"
+    },
+    {
+        "p1a": "Necrozma",
+        "p2a": "Necrozma",
+        "faint": "Necrozma"
+    },
+    {
+        "p1a": "Miltank",
+        "p2a": "Volcarona",
+        "faint": "Volcarona"
+    },
+    {
+        "p1a": "Ninetales",
+        "p2a": "Ninetales",
+        "faint": "Ninetales"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Greedent",
+        "faint": "Greedent"
+    },
+    {
+        "p1a": "Spectrier",
+        "p2a": "Spectrier",
+        "faint": "Spectrier"
+    },
+    {
+        "p1a": "Miltank",
+        "p2a": "Miltank, F, shiny",
+        "faint": "Miltank, F, shiny"
+    },
+    {
+        "p1a": "Aromatisse",
+        "p2a": "Sylveon",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Entei",
+        "p2a": "Haxorus",
+        "faint": "Entei"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331261521.json, index fucked, check dict['log']",
+    {
+        "p1a": "Moltres-Galar",
+        "p2a": "Heatran",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Darmanitan",
+        "p2a": "Darmanitan, F",
+        "faint": "Darmanitan"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Hawlucha",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Volcarona",
+        "faint": "Sylveon"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Blastoise",
+        "faint": "Blastoise"
+    },
+    {
+        "p1a": "Chansey",
+        "p2a": "Chansey",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Moltres-Galar",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Moltres-Galar",
+        "p2a": "Goodra",
+        "faint": "Goodra"
+    },
+    {
+        "p1a": "Aggron",
+        "p2a": "Aggron, F",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Sylveon",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Moltres-Galar",
+        "p2a": "Landorus",
+        "faint": "Landorus"
+    },
+    {
+        "p1a": "Venusaur",
+        "p2a": "Venusaur, F",
+        "faint": "Venusaur"
+    },
+    {
+        "p1a": "Diggersby",
+        "p2a": "Diggersby, F",
+        "faint": "Diggersby, F"
+    },
+    {
+        "p1a": "Miltank",
+        "p2a": "Avalugg",
+        "faint": "Avalugg"
+    },
+    {
+        "p1a": "Escavalier",
+        "p2a": "Miltank",
+        "faint": "Escavalier"
+    },
+    {
+        "p1a": "Gloom",
+        "p2a": "Miltank",
+        "faint": "Gloom"
+    },
+    {
+        "p1a": "Togedemaru",
+        "p2a": "Pinsir",
+        "faint": "Togedemaru"
+    },
+    {
+        "p1a": "Machamp",
+        "p2a": "Dusclops",
+        "faint": "Dusclops"
+    },
+    {
+        "p1a": "Slowbro",
+        "p2a": "Blastoise",
+        "faint": "Blastoise"
+    },
+    {
+        "p1a": "Diggersby",
+        "p2a": "Diggersby, F",
+        "faint": "Diggersby, F"
+    },
+    {
+        "p1a": "Diggersby",
+        "p2a": "Diggersby, F",
+        "faint": "Diggersby, F"
+    },
+    {
+        "p1a": "Glastrier",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Aegislash",
+        "p2a": "Aegislash, M",
+        "faint": "Aegislash"
+    },
+    {
+        "p1a": "Crustle",
+        "p2a": "Golisopod",
+        "faint": "Crustle"
+    },
+    {
+        "p1a": "Darmanitan-Galar",
+        "p2a": "Darmanitan",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Darmanitan",
+        "p2a": "Darmanitan",
+        "faint": "Darmanitan"
+    },
+    {
+        "p1a": "Darmanitan",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Darmanitan",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Darmanitan",
+        "p2a": "Darmanitan",
+        "faint": "Darmanitan"
+    },
+    {
+        "p1a": "Darmanitan",
+        "p2a": "Darmanitan",
+        "faint": "Darmanitan"
+    },
+    {
+        "p1a": "Darmanitan",
+        "p2a": "Darmanitan",
+        "faint": "Darmanitan"
+    },
+    {
+        "p1a": "Rotom-Heat",
+        "p2a": "Urshifu-Rapid-Strike",
+        "faint": "Rotom-Heat"
+    },
+    {
+        "p1a": "Darmanitan",
+        "p2a": "Darmanitan",
+        "faint": "Darmanitan"
+    },
+    {
+        "p1a": "Golisopod",
+        "p2a": "Rotom-Heat",
+        "faint": "Rotom-Heat"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Wobbuffet",
+        "faint": "Wobbuffet"
+    },
+    {
+        "p1a": "Necrozma",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Necrozma"
+    },
+    {
+        "p1a": "Wobbuffet",
+        "p2a": "Wobbuffet, F",
+        "faint": "Wobbuffet, F"
+    },
+    {
+        "p1a": "Zarude",
+        "p2a": "Golisopod",
+        "faint": "Zarude"
+    },
+    {
+        "p1a": "Heatran",
+        "p2a": "Goodra",
+        "faint": "Heatran"
+    },
+    {
+        "p1a": "Sawk",
+        "p2a": "Golisopod",
+        "faint": "Sawk"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331135758.json, index fucked, check dict['log']",
+    {
+        "p1a": "Golisopod",
+        "p2a": "Haxorus",
+        "faint": "Haxorus"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Sandaconda",
+        "faint": "Dragapult"
+    },
+    {
+        "p1a": "Klang",
+        "p2a": "Klang",
+        "faint": "Klang"
+    },
+    {
+        "p1a": "Cradily",
+        "p2a": "Lotad",
+        "faint": "Cradily"
+    },
+    {
+        "p1a": "Tyranitar",
+        "p2a": "Avalugg",
+        "faint": "Tyranitar"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331058826.json, index fucked, check dict['log']",
+    "https://replay.pokemonshowdown.com/gen81v1-1331057497.json, index fucked, check dict['log']",
+    {
+        "p1a": "Metagross",
+        "p2a": "Metagross, shiny",
+        "faint": "Metagross, shiny"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331034406.json, index fucked, check dict['log']",
+    {
+        "p1a": "Chansey",
+        "p2a": "Chansey, F",
+        "faint": "Chansey"
+    },
+    {
+        "p1a": "Moltres-Galar",
+        "p2a": "Chansey",
+        "faint": "Chansey"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1331022799.json, index fucked, check dict['log']",
+    {
+        "p1a": "Sawk",
+        "p2a": "Rillaboom",
+        "faint": "Sawk"
+    },
+    {
+        "p1a": "Avalugg",
+        "p2a": "Avalugg, F",
+        "faint": "Avalugg"
+    },
+    {
+        "p1a": "Shuckle",
+        "p2a": "Shuckle, M",
+        "faint": "Shuckle, M"
+    },
+    {
+        "p1a": "Corsola-Galar",
+        "p2a": "Crawdaunt",
+        "faint": "Crawdaunt"
+    },
+    {
+        "p1a": "Primarina",
+        "p2a": "Primarina, M",
+        "faint": "Primarina"
+    },
+    {
+        "p1a": "Aron",
+        "p2a": "Togedemaru",
+        "faint": "Togedemaru"
+    },
+    {
+        "p1a": "Tapu Fini",
+        "p2a": "Tapu Fini",
+        "faint": "Tapu Fini"
+    },
+    {
+        "p1a": "Volcanion",
+        "p2a": "Aggron",
+        "faint": "Aggron"
+    },
+    {
+        "p1a": "Dragapult",
+        "p2a": "Genesect-Douse",
+        "faint": "Genesect-Douse"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Pyukumuku",
+        "faint": "Regieleki"
+    },
+    "https://replay.pokemonshowdown.com/gen81v1-1330932363.json, index fucked, check dict['log']",
+    {
+        "p1a": "Gourgeist-Super",
+        "p2a": "Gourgeist-Super, F",
+        "faint": "Gourgeist-Super, F"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Jirachi",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Landorus-Therian",
+        "p2a": "Cloyster",
+        "faint": "Landorus-Therian"
+    },
+    {
+        "p1a": "Togekiss",
+        "p2a": "Umbreon",
+        "faint": "Togekiss"
+    },
+    {
+        "p1a": "Jirachi",
+        "p2a": "Umbreon",
+        "faint": "Jirachi"
+    },
+    {
+        "p1a": "Registeel",
+        "p2a": "Registeel",
+        "faint": "Registeel"
+    },
+    {
+        "p1a": "Tapu Koko",
+        "p2a": "Tapu Koko, shiny",
+        "faint": "Tapu Koko"
+    },
+    {
+        "p1a": "Rotom-Heat",
+        "p2a": "Dragapult",
+        "faint": "Rotom-Heat"
+    },
+    {
+        "p1a": "Swampert",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Darmanitan-Galar"
+    },
+    {
+        "p1a": "Latios",
+        "p2a": "Darmanitan-Galar",
+        "faint": "Latios"
+    },
+    {
+        "p1a": "Kartana",
+        "p2a": "Kartana",
+        "faint": "Kartana"
+    },
+    {
+        "p1a": "Diancie",
+        "p2a": "Diancie",
+        "faint": "Diancie"
+    },
+    {
+        "p1a": "Haxorus",
+        "p2a": "Sawk",
+        "faint": "Sawk"
+    },
+    {
+        "p1a": "Togekiss",
+        "p2a": "Genesect",
+        "faint": "Genesect"
+    },
+    {
+        "p1a": "Kartana",
+        "p2a": "Kartana",
+        "faint": "Kartana"
+    },
+    {
+        "p1a": "Gardevoir",
+        "p2a": "Gardevoir",
+        "faint": "Gardevoir"
+    },
+    {
+        "p1a": "Magnezone",
+        "p2a": "Magnezone",
+        "faint": "Magnezone"
+    },
+    {
+        "p1a": "Spectrier",
+        "p2a": "Dragapult",
+        "faint": "Spectrier"
+    },
+    {
+        "p1a": "Regieleki",
+        "p2a": "Dragapult",
+        "faint": "Regieleki"
+    },
+    {
+        "p1a": "Urshifu",
+        "p2a": "Miltank",
+        "faint": "Urshifu"
+    }
+]

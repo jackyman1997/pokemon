@@ -25,7 +25,15 @@ class Pokemon_winRate():
         self.links = []
         # runnning 
         # self.get_links()
-        self.get_battle_log(url='https://replay.pokemonshowdown.com/gen81v1-1336251186')
+        with open(self.name_links, 'r') as f:
+            urls = json.load(f)
+        prep_for_win_rate = []
+        for url in urls:
+            extract_battle_data = self.get_battle_log(url=url)
+            prep_for_win_rate.append(extract_battle_data)
+        # save
+        with open('faint.json', 'w+') as f: 
+            f.write( json.dumps(prep_for_win_rate, indent=4) )
 
     def find_1v1_usernames(self): 
         url_1v1_user_table = 'https://pokemonshowdown.com/ladder/gen81v1'
@@ -137,18 +145,47 @@ class Pokemon_winRate():
         try: 
             battle_data = requests.get(url)  
         except:
-            print('nan')
-            return 'nan'
+            print(f'{url}, link not found')
+            return f'{url}, link not found'
         # check response
         if battle_data.status_code == 200: 
-            # convert into json
-            battle_data_dict = json.loads(battle_data.text)
-            print(battle_data_dict['log'])
-            # TODO get info from log
+            try: 
+                # convert into json
+                battle_data_dict = json.loads(battle_data.text)
+                # get info from log
+                battle_log = battle_data_dict['log']
+                # find p1_pokemon and p2_pokemon
+                p1_index_start = battle_log.find('p1a')
+                p2_index_start = battle_log.find('p2a')
+                p1_index_end = p1_index_start + battle_log[p1_index_start:].find('\n')
+                p2_index_end = p2_index_start + battle_log[p2_index_start:].find('\n')
+                p1_info = battle_log[p1_index_start:p1_index_end].split('|')[1]
+                p2_info = battle_log[p2_index_start:p2_index_end].split('|')[1]
+                if ',' in p1_info:
+                    p1_pokemon = p1_info.split(',')[0]
+                else:
+                    p1_pokemon = p1_info
+                if ',' in p2_info:
+                    p2_pokemon = p2_info.split(',')[0]
+                else:
+                    p2_pokemon = p1_info
+                # faint
+                faint_index_start = battle_log.find('faint')
+                faint_index_end = faint_index_start + battle_log[faint_index_start:].find(':')
+                which_player_faint = battle_log[faint_index_start:faint_index_end].split('|')[1]
+                # save in dict
+                battle = {}
+                battle['p1a'] = battle.get('p1a', p1_pokemon)
+                battle['p2a'] = battle.get('p2a', p2_pokemon)
+                battle['faint'] = battle.get('faint', battle[which_player_faint])
+                print(battle)
+                return battle
+            except:
+                print(json.loads(battle_data.text)['log'])
+                return f"{url}, index fucked, check dict['log']"
         else:
-            print('link fucked')
-            return 'link fucked'
-
+            print(f"{url}, link no response")
+            return f"{url}, link no response"
 
 # for testing
 if __name__ == '__main__': 
