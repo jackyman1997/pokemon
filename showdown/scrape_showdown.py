@@ -27,14 +27,19 @@ class Pokemon_winRate():
         # self.get_links()
         with open(self.name_links, 'r') as f:
             urls = json.load(f)
-        prep_for_win_rate = []
+        self.prep_for_win_rate = []
         for i, url in enumerate(urls):
-            extract_battle_data = self.get_battle_log(url=url)
-            prep_for_win_rate.append(extract_battle_data)
+            self.prep_for_win_rate.append(self.get_battle_log(url=url))
             print(f'{i}/{len(urls)} done', end="\r")
         # save
         with open('faint.json', 'w+') as f: 
-            f.write( json.dumps(prep_for_win_rate, indent=4) )
+            f.write( json.dumps(self.prep_for_win_rate, indent=4) )
+        # calculate win 
+        self.wins = {}
+        self.count_wins()
+        # calculate win rates
+        self.winrate = {}
+        self.compute_winrate()
 
     def find_1v1_usernames(self): 
         url_1v1_user_table = 'https://pokemonshowdown.com/ladder/gen81v1'
@@ -190,6 +195,27 @@ class Pokemon_winRate():
         else:
             print(f"{url}, link no response")
             pass
+
+    def count_wins(self): 
+        self.data_clean_win_rate = [i for i in self.prep_for_win_rate if i != None and i['wins'] != 'nan']
+        # loop
+        for i in self.data_clean_win_rate:
+            if i['wins'] != 'nan':
+                try: 
+                    self.wins[i['wins']] = self.wins.get(i['wins'], []) + [1]
+                    self.wins[i['lose']] = self.wins.get(i['wins'], []) + [0]
+                except:
+                    continue 
+        # to json
+        with open('wins.json', 'w+') as f:
+            f.write( json.dumps(self.wins, indent=4) )
+
+    def compute_winrate(self): 
+        for i in self.wins:
+            self.winrate[i] = sum(self.wins[i])/len(self.wins[i])
+        # to json
+        with open('winrate.json', 'w+') as f:
+            f.write( json.dumps(self.winrate, indent=4) )
 
 # for testing
 if __name__ == '__main__': 
