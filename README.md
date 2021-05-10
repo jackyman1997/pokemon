@@ -7,7 +7,7 @@ I love pokemon, wouldn't it be fun to apply some AI on this game. Just like comp
 # Starts small
 Gathering pokemon data is the first step. Data from each Pokemon and their match data are mainly what I want.  
 Later on a simple regression on win rate again their base-stats can be done, and slow adding in more features (such as types, weaknesses, learned moves, carried item, IVs, EVs, natures ...).  
-A pokemon identifier that figure out which pokemon it is from a picture would be a fun practice. Also, the new game `Pokémon Snap` is out. Time to test.  
+A pokemon identifier that figures out which pokemon it is from a picture would be a fun practice. Also, the new game `Pokémon Snap` is out. Time to test.  
 (ADD MORE...)  
 And yes, don't know how many years later, AI learns to play pokemon.
 
@@ -26,8 +26,6 @@ Mainly I want myself to get familiarised with what online data about pokemon tha
 <a href='https://victoryroadvgc.com/2020/12/08/players-cup-ii-na-results/'>vgc data</a>  
 <a href='https://www.pikalytics.com/pokedex/ss'>Pikalytics</a>  
 <a href='https://pokemonshowdown.com/'>pokemonshowdown</a>  
-try to understand what real and raw data are, can ask the forum people or github owner  
-replay may contain data about win rate, and records are save as .txt and .json  
 <a href='https://www.pokemon.com/us/pokedex/'>pokedex</a>  
 <a href='https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon'>wiki</a>  
 <a href='https://bulbapedia.bulbagarden.net/wiki/Stat'>wiki 2</a>  
