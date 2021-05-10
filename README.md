@@ -1,4 +1,21 @@
-# links 
+# Pokemon project
+I am trying to build an AI-related project on pokemon. Ultimately, a bot that can play pokemon battle and create its own team would be my final target. This requires so much work but let's start small, getting data for pokemons, building simple AI models, then dive deeper. Wish me luck. 
+
+# Why?
+I love pokemon, wouldn't it be fun to apply some AI on this game. Just like computers can play chess, I believe they can also enjoy pokemon.  
+
+# Starts small
+Gathering pokemon data is the first step. Data from each Pokemon and their match data are mainly what I want.  
+Later on a simple regression on win rate again their base-stats can be done, and slow adding in more features (such as types, weaknesses, learned moves, carried item, IVs, EVs, natures ...).  
+A pokemon identifier that figure out which pokemon it is from a picture would be a fun practice. Also, the new game `Pokémon Snap` is out. Time to test.  
+(ADD MORE...)
+And yes, don't know how many years later, AI learns to play pokemon.
+
+# Pokemon data scraping
+Just to scraping data about pokemon first, starting from base-stats and match data from <a href='https://pokemonshowdown.com/'>pokemonshowdown</a>. These will allow me to work out whether there is a relationship between base-stats and winning battles. I will gradually add more data in to see if the model improves.  
+Mainly I want myself to get familiarised with what online data about pokemon that I can use and extract. 
+
+# useful links 
 <a href='https://victoryroadvgc.com/2020/12/08/players-cup-ii-na-results/'>vgc data</a>  
 <a href='https://www.pikalytics.com/pokedex/ss'>Pikalytics</a>  
 <a href='https://pokemonshowdown.com/'>pokemonshowdown</a>  
@@ -9,13 +26,3 @@ replay may contain data about win rate, and records are save as .txt and .json
 <a href='https://bulbapedia.bulbagarden.net/wiki/Stat'>wiki 2</a>  
 <a href='https://pokeapi.co/'>pokeapi</a>  
 <a href='https://pokemondb.net/'>pokemon db</a>  
-
-# what i done
-- got a list of pokemon and urls from <a href='https://www.pokemon.com/us/pokedex/'>pokedex</a>  
-
-# TO DO
-- try obtain images and use <a href='https://pokeapi.co/'>pokeapi</a> to get more details on each pokemon 
-- something about vgc data
-
-# ideas  
-currently I don't have a solid direction on ho to apply ai onto this kind of dataset, maybe i can use vgc data to do some sort of prediction. 

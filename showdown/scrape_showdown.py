@@ -4,9 +4,6 @@ from selenium import webdriver
 import chromedriver_autoinstaller # https://pypi.org/project/chromedriver-autoinstaller/
 import requests
 
-url = 'https://pokemonshowdown.com/ladder/gen81v1'
-url_1v1_user_table = 'https://pokemonshowdown.com/ladder/gen81v1'
-
 class Pokemon_winRate(): 
     def __init__(self): 
         # webdriver setup
@@ -26,30 +23,37 @@ class Pokemon_winRate():
         # runnning 
         # 1v1 keywords
         term_1v1 = ['Challenge Cup 1v1', '1v1', 'gen8cap1v1', 'gen81v1', 'gen71v1', 'gen61v1', 'gen51v1', 'gen41v1', 'gen31v1', 'gen21v1', 'gen11v1']
+        # the main loop on scraping links for replays of matches 
         for word in term_1v1: 
             self.get_links(key_words=word, max_links=10000)
             print(len(self.links))
         # save in json
         with open(self.name_links, 'w') as f:
             f.write( json.dumps(self.links) )
-        # load links json for win counts 
+        # load the links json back for win counts 
         with open(self.name_links, 'r') as f:
             urls = json.load(f)
+        # requests battle log from http://....log
         self.prep_for_win_rate = []
         for i, url in enumerate(urls):
             self.prep_for_win_rate.append(self.get_battle_log(url=url))
+            # show how much has been done
             print(f'{i}/{len(urls)} done', end="\r")
-        # save
+        # save as json
         with open('faint.json', 'w+') as f: 
             f.write( json.dumps(self.prep_for_win_rate, indent=4) )
         # calculate win 
         self.wins = {}
         self.count_wins()
-        # calculate win rates
-        self.winrate = {}
-        self.compute_winrate()
+        # calculate win rates, not needed here, will do when merge to the main table
+        # self.winrate = {}
+        # self.compute_winrate()
 
     def find_1v1_usernames(self): 
+        '''
+        an old method used for finding 1v1 players \n
+        not needed for now
+        '''
         url_1v1_user_table = 'https://pokemonshowdown.com/ladder/gen81v1'
         # webdriver start
         self.driver = webdriver.Chrome(options=self.options)
@@ -70,6 +74,10 @@ class Pokemon_winRate():
             f.write( json.dumps(self.players, indent=4) )
 
     def old_get_1v1_links(self): 
+        '''
+        an old method used for finding replay links from each 1v1 player \n
+        not needed for now
+        '''
         url_search_user = 'https://replay.pokemonshowdown.com/'
         key_words = 'gen81v1'
         # webdriver start
@@ -104,67 +112,68 @@ class Pokemon_winRate():
             f.write( json.dumps(self.link, indent=4) )
 
     def get_links(self, key_words, max_links=10000): 
+        '''
+        main scraper script for replay.pokemonshowdown.com
+        '''
+        # webpage link
         url_search_user = 'https://replay.pokemonshowdown.com/'
         # webdriver start
         self.driver = webdriver.Chrome(options=self.options)
         self.driver.get(url_search_user)
         time.sleep(3)
-        # locate elements 
+        # locate elements, here is for the search bar
         format_textbox = self.driver.find_element_by_xpath('/html/body/div[2]/div/form[2]/p/label/input')
         format_search_button = self.driver.find_element_by_xpath('/html/body/div[2]/div/form[2]/p/button')
-        # input keys 
+        # input keys into the search bar
         format_textbox.send_keys(key_words) 
         time.sleep(1)
         # click search
         format_search_button.click()
         time.sleep(1)
         # while loop to get links 
-        max_reach = False 
+        max_reach = False # a bool to check if the `moreResults` button still appears 
         while not max_reach:
-            # find the more button  
-            try: 
+            try: # find the more button  
                 more_button = self.driver.find_element_by_name('moreResults')
             except: 
                 print('more button not found')
                 max_reach = True
-            # find the number of links 
-            try: 
+            try: # find the links to replays 
                 table = self.driver.find_element_by_class_name('linklist')
                 links_obj = table.find_elements_by_tag_name('li')
                 print(f'{len(links_obj)} more links found', end="\r")
             except: 
                 print('table/links not found')
                 break
-            # check number of links the webpage has
+            # check number of links the webpage has, if more than the `max_links` then stop
             if len(links_obj) >= max_links or max_reach: 
-                for link_obj in links_obj: 
+                for link_obj in links_obj: # if stop then start saving those links 
                     try: 
                         link = link_obj.find_element_by_tag_name('a').get_attribute('href')
                         self.links.append(link)
                     except:
                         continue
                 break
-            else: # if not, then click more
+            else: # if not, then click `moreResults` button
                 more_button.click()
                 time.sleep(3)
         # close webdriver
         self.driver.close()
 
     def get_battle_log(self, url: str):
-        # log in json form in showdown 
-        url = url + '.log'
-        # try request
-        try: 
+        '''
+        replay is saved as a log file \n
+        requests.get(them) and extract info from plain text
+        ''' 
+        url = url + '.log' # log or json form in showdown
+        try: # try request
             battle_data = requests.get(url)  
         except:
             print(f'{url}, link not found')
             pass
-        # check response
-        if battle_data.status_code == 200: 
-            # convert into json
-            # battle_data_dict = json.loads(battle_data.text)
-            # get info from log
-            battle_log = battle_data.text
+        if battle_data.status_code == 200: # check response
+            # battle_data_dict = json.loads(battle_data.text) # convert into json
+            battle_log = battle_data.text # get info from log
             # find p1_pokemon and p2_pokemon
             try: # some of the battles are abandoned since start
                 player_pokemons = [a for a in battle_log.split('\n') if 'switch' in a]
@@ -178,22 +187,22 @@ class Pokemon_winRate():
             try: # some of the battles are abandoned
                 which_faint = [a for a in battle_log.split('\n') if 'faint' in a]
                 faint_player = which_faint[0].split('|')[-1].split(':')[0]
+                # simple logic assigning 
                 if '1' in faint_player: 
                     win_pokemon, faint_pokemon = pokemons[1], pokemons[0]
                 elif '2' in faint_player: 
                     win_pokemon, faint_pokemon = pokemons[0], pokemons[1]
-                else:
+                else: # if no p1a or p2a, the game is abandoned/never started 
                     win_pokemon, faint_pokemon = 'nan', 'nan'
-            except: 
-                faint_pokemon = 'nan'
-                win_pokemon = 'nan'
-            # save as dictionary
+            except: # or some other error I can`t generalise 
+                win_pokemon, faint_pokemon = 'nan', 'nan'
+            # save as dictionary with cautious 
             try: 
                 battle = {
                     'pokemon': player1_pokemon, 
                     'against': player2_pokemon, 
-                    'wins': win_pokemon, 
-                    'lose': faint_pokemon
+                    'win': win_pokemon, 
+                    'loss': faint_pokemon
                     }
                 return battle
             except:
@@ -204,13 +213,22 @@ class Pokemon_winRate():
             pass
 
     def count_wins(self): 
-        self.data_clean_win_rate = [i for i in self.prep_for_win_rate if i != None and i['wins'] != 'nan']
-        # loop
+        '''
+        just to count number of wins each pokemon has \n
+        list of battle log should be in this format: \n
+        [{'pokemon': player1_pokemon, \n
+         'against': player2_pokemon, \n
+         'win': win_pokemon, \n
+         'loss': faint_pokemon}, {}, ...] \n 
+        '''
+        # list comprehension kicking out None or win='nan' elements 
+        self.data_clean_win_rate = [i for i in self.prep_for_win_rate if i != None and i['win'] != 'nan']
+        # loop for counting wins
         for i in self.data_clean_win_rate:
-            if i['wins'] != 'nan':
-                try: 
-                    self.wins[i['wins']] = self.wins.get(i['wins'], []) + [1]
-                    self.wins[i['lose']] = self.wins.get(i['wins'], []) + [0]
+            if i['win'] != 'nan': # just another check to ensure
+                try: # dictionary counting wins by pokemon name in list, 1: win, 0: loss
+                    self.wins[i['win']] = self.wins.get(i['win'], []) + [1]
+                    self.wins[i['loss']] = self.wins.get(i['win'], []) + [0]
                 except:
                     continue 
         # to json
@@ -218,6 +236,9 @@ class Pokemon_winRate():
             f.write( json.dumps(self.wins, indent=4) )
 
     def compute_winrate(self): 
+        '''
+        just to calculate (number of wins) / (number of matches) 
+        '''
         for i in self.wins:
             self.winrate[i] = sum(self.wins[i])/len(self.wins[i])
         # to json
