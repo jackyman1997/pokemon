@@ -9,11 +9,7 @@ I love Pokémon, wouldn't it be fun to apply some AI on this game? Just like com
 Gathering Pokémon data is the first step. Data from each Pokémon and their match data are mainly what I want.  
 Later on a simple regression on win rate against their base-stats can be done, and slow adding in more features (such as types, weaknesses, learned moves, carried item, IVs, EVs, natures ...).  
 A Pokémon identifier that figure out which Pokémon it is from a picture would be a fun practice. Also, the new game `Pokémon Snap` is out. Time to test.  
-=======
-Gathering pokemon data is the first step. Data from each Pokemon and their match data are mainly what I want.  
-Later on a simple regression on win rate again their base-stats can be done, and slow adding in more features (such as types, weaknesses, learned moves, carried item, IVs, EVs, natures ...).  
-A pokemon identifier that figures out which pokemon it is from a picture would be a fun practice. Also, the new game `Pokémon Snap` is out. Time to test.  
->>>>>>> add794ed3bcd2c81b304e6c6a929f7461097ad77
+
 (ADD MORE...)  
 And yes, don't know how many years later, AI learns to play Pokémon.
 
