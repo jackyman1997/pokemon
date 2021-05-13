@@ -37,16 +37,13 @@ class Pokemon_winRate():
         self.prep_for_win_rate = []
         for i, url in enumerate(urls):
             self.prep_for_win_rate.append(self.get_battle_log(url=url))
-            # show how much has been done
-            print(f'{i}/{len(urls)} done', end="\r")
-        # save as json
-        with open('faint.json', 'w+') as f: 
+            print(f'{i+1}/{len(urls)} done', end="\r") # show how much has been done
+        with open('faint.json', 'w+') as f: # save as json
             f.write( json.dumps(self.prep_for_win_rate, indent=4) )
         # calculate win 
-        self.wins = {}
+        self.wins = {} # calculate win 
         self.count_wins()
-        # calculate win rates, not needed here, will do when merge to the main table
-        # self.winrate = {}
+        # self.winrate = {} # calculate win rates, not needed here, will do when merge to the main table
         # self.compute_winrate()
 
     def find_1v1_usernames(self): 
@@ -141,7 +138,7 @@ class Pokemon_winRate():
             try: # find the links to replays 
                 table = self.driver.find_element_by_class_name('linklist')
                 links_obj = table.find_elements_by_tag_name('li')
-                print(f'{len(links_obj)} more links found', end="\r")
+                print(f'on keyword "{key_words}", {len(links_obj)} more links found', end="\r") # just to tell u how much has been done
             except: 
                 print('table/links not found')
                 break
@@ -172,8 +169,7 @@ class Pokemon_winRate():
             print(f'{url}, link not found')
             pass
         if battle_data.status_code == 200: # check response
-            # battle_data_dict = json.loads(battle_data.text) # convert into json
-            battle_log = battle_data.text # get info from log
+            battle_log = battle_data.text # get info from log, if json then `battle_data_dict = json.loads(battle_data.text)`
             # find p1_pokemon and p2_pokemon
             try: # some of the battles are abandoned since start
                 player_pokemons = [a for a in battle_log.split('\n') if 'switch' in a]
@@ -185,8 +181,8 @@ class Pokemon_winRate():
                 pass
             # winning/which faint
             try: # some of the battles are abandoned
-                which_faint = [a for a in battle_log.split('\n') if 'faint' in a]
-                faint_player = which_faint[0].split('|')[-1].split(':')[0]
+                which_faint = [a for a in battle_log.split('\n') if 'faint' in a] # try finding which row of text contains the word 'faint'
+                faint_player = which_faint[0].split('|')[-1].split(':')[0] # this wiill give either `p1a` or `p2a`
                 # simple logic assigning 
                 if '1' in faint_player: 
                     win_pokemon, faint_pokemon = pokemons[1], pokemons[0]

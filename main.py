@@ -7,9 +7,9 @@ import json
 from pokemondb.scrape_pokemondb import Pokemon_baseStats
 from showdown.scrape_showdown import Pokemon_winRate
 
-# scaping part, I m not running them as they can take upto 2 hrs to finish
+# scaping part, running `Pokemon_winRate()` can take upto 2 hrs to finish
 Pokemon_baseStats()
-# Pokemon_winRate()
+Pokemon_winRate()
 
 # all data required should be in the same directory
 # base stats

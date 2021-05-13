@@ -5,6 +5,14 @@ import chromedriver_autoinstaller # https://pypi.org/project/chromedriver-autoin
 import requests
 import os
 
+# try this TODO
+'''
+def retrieve1page(URL):
+    tables = pd.read_html(requests.get(URL,headers={'User-agent': 'Chrome/47.0.2526.106'}).text)[0]
+    return tables
+this code can get table from web, better/faster then selenium 
+'''
+
 class Pokemon_baseStats(): 
     def __init__(self): 
         # webdriver setup
@@ -72,7 +80,7 @@ class Pokemon_baseStats():
             # save in list
             pokemons.append(pokemon)
             # some how many have been done
-            print(f'{idx}/{len(rows)} done', end="\r")
+            print(f'{idx+1}/{len(rows)} done', end="\r")
         # close webdriver
         self.driver.close()
         # to json
@@ -88,8 +96,7 @@ class Pokemon_baseStats():
         if not os.path.exists(folder_name): # check if folder exist
             os.makedirs(folder_name) # if not then make one
         # naming and check for window naming rules TODO 
-        img_dir = folder_name + name_of_the_img + '.png'
-        img_dir = img_dir.replace(':', '')
+        img_dir = folder_name + name_of_the_img.replace(':', '').replace('/', '') + '.jpg'
         # using requests
         with open(img_dir, 'wb+') as pic:
             pic.write( requests.get(url).content )
@@ -130,7 +137,7 @@ class Pokemon_baseStats():
             try: 
                 gimmi = self.type_set_reversed[pokemon_type]
             except: 
-                gimmi = 'bro ur number. gimmi int and [0,17]'
+                gimmi = 'bro ur number, gimmi int and [0,17]'
         else:
             gimmi = 'I dunno what went wrong but sth is wrong'
         return gimmi
