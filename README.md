@@ -5,9 +5,15 @@ I am trying to build an AI-related project on Pokémon. Ultimately, a bot that c
 I love Pokémon, wouldn't it be fun to apply some AI on this game? Just like computers can play chess, I believe they can also enjoy playing Pokémon.  
 
 # Starts small
+<<<<<<< HEAD
 Gathering Pokémon data is the first step. Data from each Pokémon and their match data are mainly what I want.  
 Later on a simple regression on win rate against their base-stats can be done, and slow adding in more features (such as types, weaknesses, learned moves, carried item, IVs, EVs, natures ...).  
 A Pokémon identifier that figure out which Pokémon it is from a picture would be a fun practice. Also, the new game `Pokémon Snap` is out. Time to test.  
+=======
+Gathering pokemon data is the first step. Data from each Pokemon and their match data are mainly what I want.  
+Later on a simple regression on win rate again their base-stats can be done, and slow adding in more features (such as types, weaknesses, learned moves, carried item, IVs, EVs, natures ...).  
+A pokemon identifier that figures out which pokemon it is from a picture would be a fun practice. Also, the new game `Pokémon Snap` is out. Time to test.  
+>>>>>>> add794ed3bcd2c81b304e6c6a929f7461097ad77
 (ADD MORE...)  
 And yes, don't know how many years later, AI learns to play Pokémon.
 
@@ -44,8 +50,13 @@ Then Winning analysis is required
 # useful links 
 <a href='https://victoryroadvgc.com/2020/12/08/players-cup-ii-na-results/'>vgc data</a>  
 <a href='https://www.pikalytics.com/pokedex/ss'>Pikalytics</a>  
+<<<<<<< HEAD
 <a href='https://pokemonshowdown.com/'>Pokémonshowdown</a>  
 <a href='https://www.pokemon.com/us/pokedex/'>Pokédex</a>  
+=======
+<a href='https://pokemonshowdown.com/'>pokemonshowdown</a>  
+<a href='https://www.pokemon.com/us/pokedex/'>pokedex</a>  
+>>>>>>> add794ed3bcd2c81b304e6c6a929f7461097ad77
 <a href='https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon'>wiki</a>  
 <a href='https://bulbapedia.bulbagarden.net/wiki/Stat'>wiki 2</a>  
 <a href='https://pokeapi.co/'>Pokéapi</a>  
