@@ -52,14 +52,15 @@ class Pokemon_baseStats():
             # pokemon ID
             pokemon['Id'] = int(details[0])
             # pokemon name
+            pokemon['Name'] = row.find_element_by_class_name('ent-name').text
             try: # some pokemon may have special names 
                 special_name = row.find_element_by_class_name('text-muted').text
-                if details[1] in special_name: 
+                if pokemon['Name'] in special_name: 
                     pokemon['Name'] = special_name
                 else:    
-                    pokemon['Name'] = details[1] + '-' + row.find_element_by_class_name('text-muted').text
+                    pokemon['Name'] = pokemon['Name'] + '-' + row.find_element_by_class_name('text-muted').text
             except:
-                pokemon['Name'] = details[1]
+                pokemon['Name'] = row.find_element_by_class_name('ent-name').text
             # pokemon type(s)
             pokemon['Type(s)'] = [types.text.split('\n') for types in row.find_elements_by_class_name('cell-icon')][0] # the last [0] is to flatten the list (.split() crates another list within)
             # now all the base stats 
@@ -70,30 +71,16 @@ class Pokemon_baseStats():
             pokemon['Special Attack'] = details[-3]
             pokemon['Special Defense'] = details[-2]
             pokemon['Speed'] = details[-1]
+            print(pokemon['Id'], ':', pokemon['Name'])
             # save in list
             pokemons.append(pokemon)
             # some how many have been done
-            print(f'{idx+1}/{len(rows)} done', end="\r")
+            # print(f'{idx+1}/{len(rows)} done', end="\r")
         # close webdriver
         self.driver.close()
         # to json
         with open(self.name_baseStats, 'w') as f:
             f.write( json.dumps(pokemons, indent=4) )
-
-    def dl_img(self, url: str, name_of_the_img: str) -> str:
-        '''
-        just for downloading image and return the directory to the image
-        '''
-        # need to create an folder to save them 
-        folder_name = './pokemon_icons/'
-        if not os.path.exists(folder_name): # check if folder exist
-            os.makedirs(folder_name) # if not then make one
-        # naming and check for window naming rules TODO 
-        img_dir = folder_name + name_of_the_img.replace(':', '').replace('/', '') + '.jpg'
-        # using requests
-        with open(img_dir, 'wb+') as pic:
-            pic.write( requests.get(url).content )
-        return img_dir
 
     def gimmi_type(self, pokemon_type: int or str) -> str or int:
         '''
