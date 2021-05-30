@@ -40,6 +40,7 @@ Then Winning analysis is required
 - abilities database
 - items carries/used during battle
 - parallelised (?) requests to speed up those 11K links of battle logs requests  
+- setting up aws on EC2 (to run the scraper anytime anywhere any-pattern) and S3 (data lake for storage) and RDS (SQL stuff and tables)
 - (...)
 
 # useful links 
