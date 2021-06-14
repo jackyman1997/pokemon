@@ -54,3 +54,8 @@ Then Winning analysis is required
 <a href='https://bulbapedia.bulbagarden.net/wiki/Stat'>wiki 2</a>  
 <a href='https://pokeapi.co/'>Pokéapi</a>  
 <a href='https://pokemondb.net/'>Pokémon db</a>  
+
+# Projects  
+1. data collection (under construction on tidying up codes)  
+2. regression (under construction on adding more details)
+3. classification (mostly done)
