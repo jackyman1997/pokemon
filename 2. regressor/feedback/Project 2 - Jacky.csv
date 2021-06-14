@@ -1,0 +1,23 @@
+Milestone,Indicator,54.55%,
+,Problem framing explained in notebook,0,
+,random train test split,1,
+,performance evaluation,0,no comparson of training and test performance
+,Test dataset only checked once,1,
+,Manual optimisation,1,feature selection with statsmodels should be performed with the train data rather than the whole dataset
+,Decisions explained in comments,1,
+,Insights explained in comments,1,you wanted to write more and it would have been a good idea
+,Automated optimisation,,optional
+,Automated optimisation works with different datasets,,optional
+,Automated commentary,,optional
+,.py,,optional
+,Presentation within time range,0,16 minutes 47 seconds
+,Slides in repo,0,
+,Clean notebook,0,clearly incomplete sections waiting for a comment
+,Other,1,good readme file
+,,,
+,,,
+,,,spiderweb graphs are not very popular in the industry
+,,,'hp is very easy to understand' --> better not to assume
+,,,using memes on slides - fun but learn about your audience in advance to make sure it will land well if are considering doing this in a professional setting
+,,,explaining the domain with examples and visuals
+,,,rehearsing your presentation will help you to keep it to the time allowed to it
