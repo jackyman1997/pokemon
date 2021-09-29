@@ -1,0 +1,22 @@
+Milestone,Indicator,81.25%,
+Project Brief,Chooses stakeholder,0,the slides explain this point but should be added to the notebook itself too; focusing on a single stakeholder would be better
+Project Brief,Original dataset,1,
+Baseline model,EDA + Data Cleaning,1,
+Model selection,Tried multiple learners,1,
+Model selection,Hyperparameter optimisation,1,
+Model selection,Multiple optimisation techniques,1,
+Model selection,Model selection using validation dataset/folds,1,
+Model selection,Threshold selection (if classification problem),1,
+Model selection,Checking test dataset only at the end,0,you checked it for each of the models but it should have been checked only with the winning one
+Model interpretation,Importance interpretation,,I appreciate that the results didn't give you much of a chance to work on this component
+Model interpretation,Unit change narrative,,I appreciate that the results didn't give you much of a chance to work on this component
+Model interpretation,Quality assessment,1,
+Problem solving,Decision guidance,,I appreciate that the results didn't give you much of a chance to work on this component
+Problem solving,Automated recommendations,,Could have built a script to generate predictions given values of the predictors
+Presentation,Duration within range,0,the presentation went over the prescribed time
+Presentation,Covers all milestones,1,
+Presentation,Non-technical discourse,1,
+Repository,Readme,1,
+Repository,Structure,1,
+Repository,Cleanness,1,
+Other,,,During the presentation you made multiple comments about how bad your model was. Although transparency is important I would invite you to also look at the potential implications of your findings even if the model is not suitable for generating predictions. Give them importance and be proud. You would be surprise to know the type of small things that non-technical stakeholders are impressed/surprised by.
