@@ -16,6 +16,14 @@ CREATE TABLE pokemon(
     PRIMARY KEY (id)
 );
 
+CREATE TABLE battle(
+    id INT NOT NULL AUTO_INCREMENT, 
+    pokemon1 VARCHAR(255) NOT NULL, 
+    pokemon2 VARCHAR(255) NOT NULL, 
+    pokemon1_win BOOL BOOLEAN NOT NULL, 
+    url VARCHAR(255) NOT NULL, 
+    PRIMARY KEY (id)
+);
 
 -- deal with this later, as form_change = same pokedex_id but different stats or types
 -- CREATE TABLE stats(
